@@ -1,4 +1,4 @@
-CV
-==
+Curriculum Vitae
+================
 
-curriculum vitae
+To be found at :  http://MMKrell.github.io/CV/index.html
