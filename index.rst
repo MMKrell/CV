@@ -3,8 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CV's documentation!
-==============================
+MARIO MICHAEL KRELL
+===================
+
+PERSONAL INFORMATION
+--------------------
+
+  :born:  in Germany, 25th February 1984
+  :phone: (W) +49 421 178 45-6554
+  :email: krell@uni-bremen.de
+  
+GOAL
+----
+
+Improve signal processing and machine learning for everyone: **pySPACE4all**
+
+
+WORK EXPERIENCE
+---------------
 
 Contents:
 
