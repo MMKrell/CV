@@ -9,30 +9,61 @@ MARIO MICHAEL KRELL
 PERSONAL INFORMATION
 --------------------
 
-  :born:  in Germany, 25th February 1984
-  :phone: (W) +49 421 178 45-6554
+  :born:  Germany, 25th February 1984
+  :phone: +49 421 178 45-6554 (W)
   :email: krell@uni-bremen.de
   
 GOAL
 ----
 
-Improve signal processing and machine learning for everyone: **pySPACE4all**
+  Improve signal processing and machine learning for everyone: **pySPACE4all**
 
 
 WORK EXPERIENCE
 ---------------
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
 
 
+EDUCATION
+---------
 
-Indices and tables
-==================
+PUBLICATIONS
+------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+COMPUTER SKILLS
+---------------
+
+  :Basic:         Java, Prolog, OpenOffice, Keynote, Linux, Windows, 
+                  `YAML <http://yaml.org/>`_
+  :Intermediate:  LaTex, Mac OS X, 
+                  `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ 
+                  (`Sphinx <http://sphinx-doc.org/>`_)
+  :Advanced:      Python
+
+OTHER INFORMATION
+-----------------
+
+  :Languages:   - German (mother tongue)
+                - English (intermediate)
+  
+  
+  :Hobbies:     Singing, Dancing, Music, Running, Cycling
+
+
+:Date: |today|
+
+
+..    Contents:
+
+    .. toctree::
+       :maxdepth: 2
+
+
+
+    Indices and tables
+    ==================
+
+    * :ref:`genindex`
+    * :ref:`modindex`
+    * :ref:`search`
 
