@@ -22,32 +22,68 @@ GOAL
 WORK EXPERIENCE
 ---------------
 
-
+- since 2010 Scientist, Robotics Group, University of Bremen, Prof. Kirchner
+- 2009-2010 Scientist, Robotics Innovation Center, DFKI GmbH, Bremen, Prof. Kirchner
+- 2005-2009 Student Assistant, Humboldt University of Berlin, Prof. Kummer
+  
+  mainly corrected student problem sheets in mathematics
 
 EDUCATION
 ---------
 
+  :phd studies: since 2012, University of Bremen, Robotics Group
+
+                Advisor: Frank Kirchner
+
+  :Diplom:     2009, *degree in mathematics*, **GPA: 1.2**
+
+               specialization: optimization, minor subject: computer science
+
+  :pre-degree:  2006, *pre-degree in computer science*, **GPA: 1.3**
+  
+  :studies:     2003-2009, Humboldt University of Berlin
+
+  :high school: 1996-2003, Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder)
+
+                *university-entrance diploma*, **GPA: 1.3**
+
+                major subjects: mathematics, physics, English, computer science
+
 PUBLICATIONS
 ------------
+
+David Feess, Mario Michael Krell, Jan Hendrik Metzen (2013) 
+`Comparison of Sensor Selection Mechanisms for an ERP-Based Brain-Computer Interface <http://dx.plos.org/10.1371/journal.pone.0067543>`_. 
+PLoS ONE 8(7): e67543. doi:10.1371/journal.pone.0067543
+
+Sirko Straube, Jan Hendrik Metzen, Anett Seeland, Mario Michael Krell, Elsa Andrea Kirchner (2011)
+Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution.
+Proceedings of the 41st Meeting of the Society for Neuroscience 2011, Washington, DC, USA
+
+Mario Michael Krell (2009)
+Generalized Derivatives in Nonsmooth Analysis: 
+Connections and Computability 
+(original german title: Verallgemeinerte Ableitungen in der nichtglatten Analysis: 
+Zusammenhänge und Berechenbarkeit). diploma thesis, Humboldt University of Berlin,
+
+
 
 COMPUTER SKILLS
 ---------------
 
-  :Basic:         Java, Prolog, OpenOffice, Keynote, Linux, Windows, 
-                  `YAML <http://yaml.org/>`_
-  :Intermediate:  LaTex, Mac OS X, 
-                  `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ 
-                  (`Sphinx <http://sphinx-doc.org/>`_)
-  :Advanced:      Python
+`pySPACE <http://pyspace.github.io/pyspace/>`_ (Python, 
+`reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
+`Sphinx <http://sphinx-doc.org/>`_,
+`YAML <http://yaml.org/>`_), MacPorts, LaTex, Mac OS X
 
 OTHER INFORMATION
 -----------------
 
-  :Languages:   - German (mother tongue)
-                - English (intermediate)
+  :languages:       German (mother tongue),
+                    English (fluent),
+                    French (basic)
   
-  
-  :Hobbies:     Singing, Dancing, Music, Running, Cycling
+  :hobbies:     singing (choir), dancing, music, running, cycling
 
 
 :Date: |today|
