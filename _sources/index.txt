@@ -22,9 +22,9 @@ GOAL
 WORK EXPERIENCE
 ---------------
 
-- since 2010 Scientist, Robotics Group, University of Bremen, Prof. Kirchner
-- 2009-2010 Scientist, Robotics Innovation Center, DFKI GmbH, Bremen, Prof. Kirchner
-- 2005-2009 Student Assistant, Humboldt University of Berlin, Prof. Kummer
+- since 2010 Scientist, Robotics Group, University of Bremen, Frank Kirchner
+- 2009-2010 Scientist, Robotics Innovation Center, DFKI GmbH, Bremen, Frank Kirchner
+- 2005-2009 Student Assistant, Humboldt University of Berlin, Bernd Kummer
   
   mainly corrected student problem sheets in mathematics
 
@@ -33,7 +33,7 @@ EDUCATION
 
   :phd studies: since 2012, University of Bremen, Robotics Group
 
-                Advisor: Frank Kirchner
+                advisor: Frank Kirchner
 
   :Diplom:     2009, *degree in mathematics*, **GPA: 1.2**
 
@@ -65,6 +65,7 @@ Generalized Derivatives in Nonsmooth Analysis:
 Connections and Computability 
 (original german title: Verallgemeinerte Ableitungen in der nichtglatten Analysis: 
 Zusammenhänge und Berechenbarkeit). diploma thesis, Humboldt University of Berlin,
+advisor: Bernd Kirchner
 
 
 
