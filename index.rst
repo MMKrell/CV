@@ -8,10 +8,12 @@ MARIO MICHAEL KRELL
 
 PERSONAL INFORMATION
 --------------------
-
-  :born:  Germany, 25th February 1984
-  :phone: +49 421 178 45-6554 (W)
-  :email: krell@uni-bremen.de
+  :address: Robotics Group,
+            Faculty 3 - Mathematics and Computer Science, University of Bremen,
+            Robert Hooke Str. 5, Bremen, D-28359, Germany
+  :born:    Germany, 25th February 1984
+  :phone:   +49 421 178 45-6554 (W)
+  :email:   krell@uni-bremen.de
   
 GOAL
 ----
@@ -26,9 +28,9 @@ EDUCATION
 
                 advisor: Frank Kirchner
 
-  :Diplom:     2009, *degree in mathematics*, **GPA: 1.2**
+  :Diplom:      2009, *degree in mathematics*, **GPA: 1.2**
 
-               specialization: optimization, minor subject: computer science
+                specialization: optimization, minor subject: computer science
 
   :pre-degree:  2006, *pre-degree in computer science*, **GPA: 1.3**
   
