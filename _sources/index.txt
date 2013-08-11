@@ -18,7 +18,6 @@ GOAL
 
   Improve signal processing and machine learning for everyone: **pySPACE4all**
 
-
 WORK EXPERIENCE
 ---------------
 
@@ -27,6 +26,15 @@ WORK EXPERIENCE
 - 2005-2009 Student Assistant, Humboldt University of Berlin, Bernd Kummer
   
   mainly corrected student problem sheets in mathematics
+
+TEACHING
+--------
+
+- WS 2013, tutorial, robotics 3b - learning algorithms for autonomous robots, Frank Kirchner
+- SS 2012, tutorial, analysis 2 (mathematics), Bernd Stratmann
+- WS 2011, tutorial, analysis 1 (mathematics), Bernd Stratmann
+- SS 2010, tutorial, mathematics 2 (computer science), Ronald Stöver
+- WS 2009, tutorial, mathematics 1 (computer science), Ronald Stöver
 
 EDUCATION
 ---------
@@ -65,7 +73,7 @@ Generalized Derivatives in Nonsmooth Analysis:
 Connections and Computability 
 (original german title: Verallgemeinerte Ableitungen in der nichtglatten Analysis: 
 Zusammenhänge und Berechenbarkeit). diploma thesis, Humboldt University of Berlin,
-advisor: Bernd Kirchner
+advisor: Bernd Kummer
 
 
 
@@ -80,11 +88,11 @@ COMPUTER SKILLS
 OTHER INFORMATION
 -----------------
 
-  :languages:       German (mother tongue),
-                    English (fluent),
-                    French (basic)
+  :languages: German (mother tongue),
+              English (fluent),
+              French (basic)
   
-  :hobbies:     singing (choir), dancing, music, running, cycling
+  :hobbies:   singing (choir), dancing, music, running, cycling
 
 
 :Date: |today|
