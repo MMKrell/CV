@@ -18,23 +18,6 @@ GOAL
 
   Improve signal processing and machine learning for everyone: **pySPACE4all**
 
-WORK EXPERIENCE
----------------
-
-- since 2010 Scientist, Robotics Group, University of Bremen, Frank Kirchner
-- 2009-2010 Scientist, Robotics Innovation Center, DFKI GmbH, Bremen, Frank Kirchner
-- 2005-2009 Student Assistant, Humboldt University of Berlin, Bernd Kummer
-  
-  mainly corrected student problem sheets in mathematics
-
-TEACHING
---------
-
-- WS 2013, tutorial, robotics 3b - learning algorithms for autonomous robots, Frank Kirchner
-- SS 2012, tutorial, analysis 2 (mathematics), Bernd Stratmann
-- WS 2011, tutorial, analysis 1 (mathematics), Bernd Stratmann
-- SS 2010, tutorial, mathematics 2 (computer science), Ronald Stöver
-- WS 2009, tutorial, mathematics 1 (computer science), Ronald Stöver
 
 EDUCATION
 ---------
@@ -57,6 +40,15 @@ EDUCATION
 
                 major subjects: mathematics, physics, English, computer science
 
+TEACHING
+--------
+
+  :WS2013: tutorial, robotics 3b - learning algorithms for autonomous robots, Frank Kirchner
+  :SS2012: tutorial, analysis 2 (mathematics), Bernd Stratmann
+  :WS2011: tutorial, analysis 1 (mathematics), Bernd Stratmann
+  :SS2010: tutorial, mathematics 2 (computer science), Ronald Stöver
+  :WS2009: tutorial, mathematics 1 (computer science), Ronald Stöver
+
 PUBLICATIONS
 ------------
 
@@ -75,7 +67,39 @@ Connections and Computability
 Zusammenhänge und Berechenbarkeit). diploma thesis, Humboldt University of Berlin,
 advisor: Bernd Kummer
 
+WORK EXPERIENCE
+---------------
 
+  :since 2010:  scientist, Robotics Group, University of Bremen, Frank Kirchner
+
+                - open source release of 
+                  `pySPACE <http://pyspace.github.io/pyspace/>`_
+                - extensions of the relative margin machine
+                - developed parameter optimization algorithms
+                - developed and evaluated sensor selection algorithms
+                - improving, refactoring, restructuring 
+                  `pySPACE <http://pyspace.github.io/pyspace/>`_
+                - improved documentation and developed documentation concept
+                  and automatic API documentation
+                  generator
+                - developed visualization concepts for signal processing
+                - support for other software users and 
+                  large simplification of user interface
+
+  :2009-2010:   scientist, Robotics Innovation Center, DFKI GmbH, Bremen, Frank Kirchner
+
+                - literature research in BCI
+                - contributed to project proposal for 
+                  `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`
+                - integrated classification and performance evaluation and
+                  further algorithms into signal processing framework
+                - algorithm tuning for faster processing
+                - modeling of space simulation to reduce 12 degrees of freedom
+                  to 9 restricted ones
+
+  :2005-2009:   student assistant, Humboldt University of Berlin, Bernd Kummer
+
+                mainly corrected student problem sheets in mathematics
 
 COMPUTER SKILLS
 ---------------
@@ -103,7 +127,8 @@ OTHER INFORMATION
     .. toctree::
        :maxdepth: 2
 
-
+       - worked for project 
+         `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`
 
     Indices and tables
     ==================
