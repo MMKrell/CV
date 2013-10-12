@@ -22,7 +22,7 @@ MARIO MICHAEL KRELL
 
 **GOAL**
 
-  Improve signal processing and machine learning for everyone: *pySPACE4all*
+  Improve signal processing and machine learning for everyone in one framework.
 
 **EDUCATION**
 
@@ -54,19 +54,31 @@ MARIO MICHAEL KRELL
 
 **PUBLICATIONS**
 
-  David Feess, Mario Michael Krell, Jan Hendrik Metzen (2013) 
-  `Comparison of Sensor Selection Mechanisms for an ERP-Based Brain-Computer Interface <http://dx.plos.org/10.1371/journal.pone.0067543>`_. 
-  PLoS ONE 8(7): e67543. doi:10.1371/journal.pone.0067543
+  | Mario Michael Krell, David Feess, Sirko Straube (2013)
+  | Balanced Relative Margin Machine - The Missing Piece Between FDA and SVM Classification
+  | In Pattern Recognition Letters, Elsevier, doi: 10.1016/j.patrec.2013.09.018, in press
 
-  Sirko Straube, Jan Hendrik Metzen, Anett Seeland, Mario Michael Krell, Elsa Andrea Kirchner (2011)
-  Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution.
-  Proceedings of the 41st Meeting of the Society for Neuroscience 2011, Washington, DC, USA
+  | Mario Michael Krell, Marc Tabie, Hendrik Wöhrle, Elsa Andrea Kirchner (2013)
+  | Memory and Processing Efficient Formula for Moving Variance Calculation in EEG and EMG Signal Processing
+  | In International Congress on Neurotechnology, Electronics and Informatics, (NEUROTECHNIX-2013), 19.9.-20.9.2013, Vilamoura, SCITEPRESS Digital Library, pages 41-45
 
-  Mario Michael Krell (2009) 
-  Generalized Derivatives in Nonsmooth Analysis: Connections and Computability 
-  (original german title: Verallgemeinerte Ableitungen in der nichtglatten Analysis: 
-  Zusammenhänge und Berechenbarkeit). diploma thesis, Humboldt University of Berlin,
-  advisor: Bernd Kummer
+  | Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Elsa Andrea Kirchner, Frank Kirchner (2013)
+  | A Dataflow-Based Mobile Brain Reading System on Chip with Supervised Online Calibration
+  | In International Congress on Neurotechnology, Electronics and Informatics, (NEUROTECHNIX-2013), 19.9.-20.9.2013, Vilamoura, SCITEPRESS Digital Library, pages 41-45
+
+  | David Feess, Mario Michael Krell, Jan Hendrik Metzen (2013) 
+  | `Comparison of Sensor Selection Mechanisms for an ERP-Based Brain-Computer Interface <http://dx.plos.org/10.1371/journal.pone.0067543>`_
+  | PLoS ONE 8(7): e67543. doi:10.1371/journal.pone.0067543
+
+  | Sirko Straube, Jan Hendrik Metzen, Anett Seeland, Mario Michael Krell, Elsa Andrea Kirchner (2011)
+  | Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution
+  | Proceedings of the 41st Meeting of the Society for Neuroscience 2011, Washington, DC, USA
+
+  | Mario Michael Krell (2009) 
+  | Generalized Derivatives in Nonsmooth Analysis: Connections and Computability 
+    (original german title: Verallgemeinerte Ableitungen in der nichtglatten Analysis: 
+    Zusammenhänge und Berechenbarkeit)
+  | diploma thesis, Humboldt University of Berlin, advisor: Bernd Kummer
 
 **WORK EXPERIENCE**
 
