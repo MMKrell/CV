@@ -14,7 +14,9 @@ MARIO MICHAEL KRELL
 **PERSONAL INFORMATION**
 
 :address: Robotics Group,
-          Faculty 3 - Mathematics and Computer Science, University of Bremen,
+          Faculty 3 - Mathematics and Computer Science, 
+          
+          University of Bremen,
           Robert Hooke Str. 1, Bremen, D-28359, Germany
 :born:    Germany, 25th February 1984
 :phone:   +49 421 178 45-6554 (W)
@@ -66,6 +68,61 @@ MARIO MICHAEL KRELL
   | `Comparison of Sensor Selection Mechanisms for an ERP-Based Brain-Computer Interface <http://dx.plos.org/10.1371/journal.pone.0067543>`_
   | In PLoS ONE 8(7): e67543, doi:10.1371/journal.pone.0067543
 
+**Talks**
+
+  | `Introduction to pySPACE workflows` (2013)
+  | NIPS workshop *Machine Learning Open Source Software: Towards Open Workflows*, Lake Tahoe, Nevada, USA
+
+**WORK EXPERIENCE**
+
+:since 2010:  scientist, Robotics Group, University of Bremen, Frank Kirchner, 
+              project `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
+                
+              - open source release of 
+                `pySPACE <http://pyspace.github.io/pyspace/>`_,
+                improving, refactoring, restructuring 
+              - several extensions of the relative margin machine
+              - developed new parameter optimization algorithms,
+                sensor selection algorithms, 
+                and visualization concepts for signal processing chains
+              - improved documentation and developed documentation concept
+                and automatic API documentation generator
+              - support for other software users 
+                and 
+                large simplification of user interface
+              - numerous other improvements of pySPACE (e.g. 
+                multi-class classification, regression, bug fixes, 
+                style improvements, data handling)
+
+:2009-2010:   scientist, Robotics Innovation Center Bremen, DFKI GmbH, Frank Kirchner,
+              project `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
+
+              - literature research in BCI
+                and contributed to project proposal for 
+                `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
+              - integrated classification and performance evaluation and
+                further algorithms into signal processing framework
+              - algorithm tuning for faster processing
+              - modeling of space simulation to reduce 12 degrees of freedom
+                to 9 restricted ones
+
+:2005-2009:   student assistant, Humboldt University of Berlin, Bernd Kummer
+
+**COMPUTER SKILLS**
+
+  `pySPACE <http://pyspace.github.io/pyspace/>`_ (Python, 
+  `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
+  `Sphinx <http://sphinx-doc.org/>`_,
+  `YAML <http://yaml.org/>`_), MacPorts, LaTex, Mac OS X
+
+**OTHER INFORMATION**
+
+:languages: German (mother tongue),
+            English (fluent),
+            French (basic)
+
+:hobbies:   singing (choir), dancing, music, running, cycling
+
 **MINOR PUBLICATIONS**
   | Elsa Andrea Kirchner, Su Kyoung Kim, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Mario Michael Krell, Marc Tabie, Manfred Fahle (2013)
   | `On the Applicability of Brain Reading for Self-Controlled, Predictive Human-Machine Interfaces in Robotics <http://dx.plos.org/10.1371/journal.pone.0081732>`_
@@ -88,67 +145,6 @@ MARIO MICHAEL KRELL
     (original german title: Verallgemeinerte Ableitungen in der nichtglatten Analysis: 
     Zusammenhänge und Berechenbarkeit)
   | diploma thesis, Humboldt University of Berlin, advisor: Bernd Kummer
-
-**Talks**
-
-  | `Introduction to pySPACE workflows` (2013)
-  | NIPS workshop *Machine Learning Open Source Software: Towards Open Workflows*, Lake Tahoe, Nevada, USA
-
-**WORK EXPERIENCE**
-
-:since 2010:  scientist, Robotics Group, University of Bremen, Frank Kirchner
-
-              - working in the project 
-                `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
-              - open source release of 
-                `pySPACE <http://pyspace.github.io/pyspace/>`_,
-                improving, refactoring, restructuring 
-              - several extensions of the relative margin machine
-              - developed new parameter optimization algorithms,
-                sensor selection algorithms, 
-                and visualization concepts for signal processing chains
-              - improved documentation and developed documentation concept
-                and automatic API documentation generator
-              - support for other software users 
-                and 
-                large simplification of user interface
-              - numerous other improvements of pySPACE (e.g. 
-                multi-class classification, regression, bug fixes, 
-                style improvements, data handling)
-
-:2009-2010:   scientist, Robotics Innovation Center, DFKI GmbH, Bremen, Frank Kirchner
-
-              - working in the project 
-                `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
-              - literature research in BCI
-                and contributed to project proposal for 
-                `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
-              - integrated classification and performance evaluation and
-                further algorithms into signal processing framework
-              - algorithm tuning for faster processing
-              - modeling of space simulation to reduce 12 degrees of freedom
-                to 9 restricted ones
-
-:2005-2009:   student assistant, Humboldt University of Berlin, Bernd Kummer
-
-              mainly corrected student problem sheets in mathematics
-
-**COMPUTER SKILLS**
-
-  `pySPACE <http://pyspace.github.io/pyspace/>`_ (Python, 
-  `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
-  `Sphinx <http://sphinx-doc.org/>`_,
-  `YAML <http://yaml.org/>`_), MacPorts, LaTex, Mac OS X
-
-**OTHER INFORMATION**
-
-:languages: German (mother tongue),
-            English (fluent),
-            French (basic)
-
-:hobbies:   singing (choir), dancing, music, running, cycling
-
-
 
 ..    Contents:
 
