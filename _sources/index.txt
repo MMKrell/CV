@@ -15,7 +15,7 @@ MARIO MICHAEL KRELL
 
 :address: Robotics Group,
           Faculty 3 - Mathematics and Computer Science, University of Bremen,
-          Robert Hooke Str. 5, Bremen, D-28359, Germany
+          Robert Hooke Str. 1, Bremen, D-28359, Germany
 :born:    Germany, 25th February 1984
 :phone:   +49 421 178 45-6554 (W)
 :email:   krell@uni-bremen.de
