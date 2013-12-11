@@ -98,6 +98,8 @@ MARIO MICHAEL KRELL
 
 :since 2010:  scientist, Robotics Group, University of Bremen, Frank Kirchner
 
+              - working in the project 
+                `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
               - open source release of 
                 `pySPACE <http://pyspace.github.io/pyspace/>`_,
                 improving, refactoring, restructuring 
@@ -107,7 +109,8 @@ MARIO MICHAEL KRELL
                 and visualization concepts for signal processing chains
               - improved documentation and developed documentation concept
                 and automatic API documentation generator
-              - support for other software users and 
+              - support for other software users 
+                and 
                 large simplification of user interface
               - numerous other improvements of pySPACE (e.g. 
                 multi-class classification, regression, bug fixes, 
@@ -115,6 +118,8 @@ MARIO MICHAEL KRELL
 
 :2009-2010:   scientist, Robotics Innovation Center, DFKI GmbH, Bremen, Frank Kirchner
 
+              - working in the project 
+                `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
               - literature research in BCI
                 and contributed to project proposal for 
                 `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
@@ -149,9 +154,6 @@ MARIO MICHAEL KRELL
 
     .. toctree::
        :maxdepth: 2
-
-       - worked for project 
-         `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`
 
     Indices and tables
     ==================
