@@ -129,7 +129,7 @@ MARIO MICHAEL KRELL
   | In PLoS ONE, doi:10.1371/journal.pone.0081732, in press
 
   | Mario Michael Krell, Marc Tabie, Hendrik Wöhrle, Elsa Andrea Kirchner (2013)
-  | `Memory and Processing Efficient Formula for Moving Variance Calculation in EEG and EMG Signal Processing`
+  | `Memory and Processing Efficient Formula for Moving Variance Calculation in EEG and EMG Signal Processing <http://www.dfki.de/web/forschung/publikationen/renameFileForDownload?filename=131008_Memory%20and%20Processing%20Efficient%20Formula%20for%20Moving%20Variance%20Calculation%20in%20EEG%20and%20EMG%20Signal%20Processing_NEUROTECHNIX_Krell.pdf&file_id=uploads_2062>`_
   | In International Congress on Neurotechnology, Electronics and Informatics, (NEUROTECHNIX-2013), 19.9.-20.9.2013, Vilamoura, SCITEPRESS Digital Library, pages 41-45
 
   | Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Elsa Andrea Kirchner, Frank Kirchner (2013)
