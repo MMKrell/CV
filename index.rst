@@ -130,11 +130,11 @@ MARIO MICHAEL KRELL
 
   | Mario Michael Krell, Marc Tabie, Hendrik Wöhrle, Elsa Andrea Kirchner (2013)
   | `Memory and Processing Efficient Formula for Moving Variance Calculation in EEG and EMG Signal Processing <http://www.dfki.de/web/forschung/publikationen/renameFileForDownload?filename=131008_Memory%20and%20Processing%20Efficient%20Formula%20for%20Moving%20Variance%20Calculation%20in%20EEG%20and%20EMG%20Signal%20Processing_NEUROTECHNIX_Krell.pdf&file_id=uploads_2062>`_
-  | In International Congress on Neurotechnology, Electronics and Informatics, (NEUROTECHNIX-2013), 19.9.-20.9.2013, Vilamoura, SCITEPRESS Digital Library, pages 41-45
+  | In International Congress on Neurotechnology, Electronics and Informatics (NEUROTECHNIX-2013), SCITEPRESS Digital Library
 
   | Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Elsa Andrea Kirchner, Frank Kirchner (2013)
   | `A Dataflow-Based Mobile Brain Reading System on Chip with Supervised Online Calibration`
-  | In International Congress on Neurotechnology, Electronics and Informatics, (NEUROTECHNIX-2013), 19.9.-20.9.2013, Vilamoura, SCITEPRESS Digital Library, pages 41-45
+  | In International Congress on Neurotechnology, Electronics and Informatics (NEUROTECHNIX-2013), SCITEPRESS Digital Library
 
   | Sirko Straube, Jan Hendrik Metzen, Anett Seeland, Mario Michael Krell, Elsa Andrea Kirchner (2011)
   | `Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution`
