@@ -28,7 +28,7 @@ MARIO MICHAEL KRELL
 
 **EDUCATION**
 
-:phd studies: since 2012, University of Bremen, Robotics Group
+:phd studies: since 2012, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_
 
               advisor: Frank Kirchner
 
@@ -38,9 +38,9 @@ MARIO MICHAEL KRELL
 
 :pre-degree:  2006, *pre-degree in computer science*, **GPA: 1.3**
 
-:studies:     2003-2009, Humboldt University of Berlin
+:studies:     2003-2009, `Humboldt University of Berlin <www.hu-berlin.de>`_
 
-:high school: 1996-2003, Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder)
+:high school: 1996-2003, `Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder) <http://www.gauss-gymnasium.de>`_
 
               *university-entrance diploma*, **GPA: 1.3**
 
@@ -110,7 +110,8 @@ MARIO MICHAEL KRELL
 
 **COMPUTER SKILLS**
 
-  `pySPACE <http://pyspace.github.io/pyspace/>`_ (Python, 
+  `pySPACE <http://pyspace.github.io/pyspace/>`_ (
+  `Python <http://www.python.org/>`_, 
   `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
   `Sphinx <http://sphinx-doc.org/>`_,
   `YAML <http://yaml.org/>`_), MacPorts, LaTex, Mac OS X
@@ -121,7 +122,7 @@ MARIO MICHAEL KRELL
             English (fluent),
             French (basic)
 
-:hobbies:   singing (choir), dancing, music, running, cycling
+:hobbies:   singing (choir), dancing, music, running, cycling, solving problems
 
 **MINOR PUBLICATIONS**
   | Elsa Andrea Kirchner, Su Kyoung Kim, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Mario Michael Krell, Marc Tabie, Manfred Fahle (2013)
