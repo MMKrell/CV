@@ -127,7 +127,7 @@ MARIO MICHAEL KRELL
 **MINOR PUBLICATIONS**
   | Elsa Andrea Kirchner, Su Kyoung Kim, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Mario Michael Krell, Marc Tabie, Manfred Fahle (2013)
   | `On the Applicability of Brain Reading for Self-Controlled, Predictive Human-Machine Interfaces in Robotics <http://dx.plos.org/10.1371/journal.pone.0081732>`_
-  | In PLoS ONE, doi:10.1371/journal.pone.0081732, in press
+  | In PLoS ONE 8(12): e81732, doi:10.1371/journal.pone.0081732
 
   | Mario Michael Krell, Marc Tabie, Hendrik Wöhrle, Elsa Andrea Kirchner (2013)
   | `Memory and Processing Efficient Formula for Moving Variance Calculation in EEG and EMG Signal Processing <http://www.dfki.de/web/forschung/publikationen/renameFileForDownload?filename=131008_Memory%20and%20Processing%20Efficient%20Formula%20for%20Moving%20Variance%20Calculation%20in%20EEG%20and%20EMG%20Signal%20Processing_NEUROTECHNIX_Krell.pdf&file_id=uploads_2062>`_
