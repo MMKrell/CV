@@ -32,17 +32,17 @@ MARIO MICHAEL KRELL
 
               advisor: Frank Kirchner
 
-:Diplom:      2009, *degree in mathematics*, **GPA: 1.2**
+:Diplom:      2009, *degree in mathematics*, grade: 1.2
 
               specialization: optimization, minor subject: computer science
 
-:pre-degree:  2006, *pre-degree in computer science*, **GPA: 1.3**
+:pre-degree:  2006, *pre-degree in computer science*, grade: 1.3
 
-:studies:     2003-2009, `Humboldt University of Berlin <www.hu-berlin.de>`_
+:studies:     2003-2009, Humboldt University of Berlin
 
-:high school: 1996-2003, `Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder) <http://www.gauss-gymnasium.de>`_
+:high school: 1996-2003, Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder)
 
-              *university-entrance diploma*, **GPA: 1.3**
+              *university-entrance diploma*, grade: 1.3
 
               major subjects: mathematics, physics, English, computer science
 
