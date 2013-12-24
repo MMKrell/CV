@@ -57,8 +57,8 @@ MARIO MICHAEL KRELL
 **MAJOR PUBLICATIONS**
 
   | Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, Frank Kirchner (2013)
-  | `pySPACE — A Signal Processing and Classification Environment in Python <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00040/abstract>`_
-  | In Frontiers in Neuroinformatics 7(40), doi: 10.3389/fninf.2013.00040, in press
+  | `pySPACE — a signal processing and classification environment in Python <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00040/abstract>`_
+  | In Frontiers in Neuroinformatics 7(40): 1-11, doi: 10.3389/fninf.2013.00040
 
   | Mario Michael Krell, David Feess, Sirko Straube (2013)
   | `Balanced Relative Margin Machine - The Missing Piece Between FDA and SVM Classification <http://dx.doi.org/10.1016/j.patrec.2013.09.018>`_
