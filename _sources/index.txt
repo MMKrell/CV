@@ -28,9 +28,9 @@ MARIO MICHAEL KRELL
 
 **EDUCATION**
 
-.. 
+..
   =============== ===============
-  test            test2
+  **EDUCATION**   
   =============== ===============
   **do a PhD**    since 2012, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, advisor: Frank Kirchner
 
@@ -43,17 +43,33 @@ MARIO MICHAEL KRELL
   **high-school** 1996-2003, *university-entrance diploma*, Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder), major subjects: mathematics, physics, English, computer science, grade: 1.3
   =============== ===============
 
-:do a PhD:    since 2012, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_,
+..
+  :do a PhD:    since 2012, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_,
+                advisor: Frank Kirchner
+
+  :degree:      *in mathematics* ("Diplom"), 2009, 
+                focus: optimization and computer science, grade: 1.2
+
+  :pre-degree:  *in computer science* ("Vordiplom"), 2006, grade: 1.3
+
+  :university:  2003-2009, Humboldt University of Berlin
+
+  :high-school: 1996-2003, *university-entrance diploma*, 
+                Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder),
+                major subjects: mathematics, physics, English, computer science,
+                grade: 1.3
+
+:since 2012:  *do a PhD*, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_,
               advisor: Frank Kirchner
 
-:degree:      *in mathematics* ("Diplom"), 2009, 
+:2009:        *degree in mathematics* ("Diplom"),
               focus: optimization and computer science, grade: 1.2
 
-:pre-degree:  *in computer science* ("Vordiplom"), 2006, grade: 1.3
+:2006:        *pre-degree in computer science* ("Vordiplom"), grade: 1.3
 
-:university:  2003-2009, Humboldt University of Berlin
+:2003-2009:   Humboldt University of Berlin
 
-:high-school: 1996-2003, *university-entrance diploma*, 
+:2003:        *university-entrance diploma*, 
               Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder),
               major subjects: mathematics, physics, English, computer science,
               grade: 1.3
