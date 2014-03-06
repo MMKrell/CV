@@ -128,11 +128,11 @@ MARIO MICHAEL KRELL
 
   - `pySPACE — a signal processing and classification environment in Python <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00040/abstract>`_,
     Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, Frank Kirchner (2013),
-    In Frontiers in Neuroinformatics 7(40): 1-11, doi: 10.3389/fninf.2013.00040
+    In Frontiers in Neuroinformatics 7(40): 1-11, doi:10.3389/fninf.2013.00040
 
   - `Balanced Relative Margin Machine - The Missing Piece Between FDA and SVM Classification <http://dx.doi.org/10.1016/j.patrec.2013.09.018>`_,
-    Mario Michael Krell, David Feess, Sirko Straube (2013),
-    In Pattern Recognition Letters, Elsevier, doi: 10.1016/j.patrec.2013.09.018, in press
+    Mario Michael Krell, David Feess, Sirko Straube (2014),
+    In Pattern Recognition Letters 41: 43-52, doi:10.1016/j.patrec.2013.09.018
 
   - `Comparison of Sensor Selection Mechanisms for an ERP-Based Brain-Computer Interface <http://dx.plos.org/10.1371/journal.pone.0067543>`_,
     David Feess, Mario Michael Krell\*, Jan Hendrik Metzen (2013),
