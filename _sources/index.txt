@@ -9,6 +9,10 @@ CURRICULUM VITAE
 MARIO MICHAEL KRELL
 ===================
 
+.. image:: me_small.png
+    :width: 3.5cm
+    :align: left
+
 .. :Date: |today|
 
 **PERSONAL INFORMATION**
@@ -19,12 +23,10 @@ MARIO MICHAEL KRELL
           
           Robert-Hooke-Str. 1, Bremen, D-28359, Germany,
           phone: +49 421 178 45-6554 (W)
-:born:    Germany, 25th February 1984
+:born:    Germany, Frankfurt (Oder), 25th February 1984
 :email:   krell@uni-bremen.de
 
-**GOAL**
-
-  Improve signal processing and machine learning for everyone in one framework.
+:goal:    Improve signal processing and machine learning for everyone in one framework.
 
 **EDUCATION**
 
@@ -74,33 +76,6 @@ MARIO MICHAEL KRELL
               major subjects: mathematics, physics, English, computer science,
               grade: 1.3
 
-**TEACHING**
-
-:WS2013: robotics 3b - learning algorithms for autonomous robots, Frank Kirchner
-:SS2012: tutorial, analysis 2 (mathematics), Bernd Stratmann
-:WS2011: tutorial, analysis 1 (mathematics), Bernd Stratmann
-:SS2010: tutorial, mathematics 2 (computer science), Ronald Stöver
-:WS2009: tutorial, mathematics 1 (computer science), Ronald Stöver
-
-**MAJOR PUBLICATIONS**
-
-  - `pySPACE — a signal processing and classification environment in Python <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00040/abstract>`_,
-    Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, Frank Kirchner (2013),
-    In Frontiers in Neuroinformatics 7(40): 1-11, doi: 10.3389/fninf.2013.00040
-
-  - `Balanced Relative Margin Machine - The Missing Piece Between FDA and SVM Classification <http://dx.doi.org/10.1016/j.patrec.2013.09.018>`_,
-    Mario Michael Krell, David Feess, Sirko Straube (2013),
-    In Pattern Recognition Letters, Elsevier, doi: 10.1016/j.patrec.2013.09.018, in press
-
-  - `Comparison of Sensor Selection Mechanisms for an ERP-Based Brain-Computer Interface <http://dx.plos.org/10.1371/journal.pone.0067543>`_,
-    David Feess, Mario Michael Krell\*, Jan Hendrik Metzen (2013),
-    In PLoS ONE 8(7): e67543, doi:10.1371/journal.pone.0067543
-
-**Talks**
-
-  `Introduction to pySPACE workflows` (2013),
-  NIPS workshop *Machine Learning Open Source Software: Towards Open Workflows*, Lake Tahoe, Nevada, USA
-
 **WORK EXPERIENCE**
 
 :since 2010:  scientist, Robotics Group, University of Bremen, Frank Kirchner, 
@@ -136,13 +111,42 @@ MARIO MICHAEL KRELL
 
 :2005-2009:   student assistant, Humboldt University of Berlin, Bernd Kummer
 
+**Talks**
+
+  `Introduction to pySPACE workflows` (2013),
+  NIPS workshop *Machine Learning Open Source Software: Towards Open Workflows*, Lake Tahoe, Nevada, USA
+
+**TEACHING**
+
+:WS2013: robotics 3b - learning algorithms for autonomous robots, Frank Kirchner
+:SS2012: tutorial, analysis 2 (mathematics), Bernd Stratmann
+:WS2011: tutorial, analysis 1 (mathematics), Bernd Stratmann
+:SS2010: tutorial, mathematics 2 (computer science), Ronald Stöver
+:WS2009: tutorial, mathematics 1 (computer science), Ronald Stöver
+
+**MAJOR PUBLICATIONS**
+
+  - `pySPACE — a signal processing and classification environment in Python <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00040/abstract>`_,
+    Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, Frank Kirchner (2013),
+    In Frontiers in Neuroinformatics 7(40): 1-11, doi: 10.3389/fninf.2013.00040
+
+  - `Balanced Relative Margin Machine - The Missing Piece Between FDA and SVM Classification <http://dx.doi.org/10.1016/j.patrec.2013.09.018>`_,
+    Mario Michael Krell, David Feess, Sirko Straube (2013),
+    In Pattern Recognition Letters, Elsevier, doi: 10.1016/j.patrec.2013.09.018, in press
+
+  - `Comparison of Sensor Selection Mechanisms for an ERP-Based Brain-Computer Interface <http://dx.plos.org/10.1371/journal.pone.0067543>`_,
+    David Feess, Mario Michael Krell\*, Jan Hendrik Metzen (2013),
+    In PLoS ONE 8(7): e67543, doi:10.1371/journal.pone.0067543
+
 **COMPUTER SKILLS**
 
   `pySPACE <http://pyspace.github.io/pyspace/>`_ (
   `Python <http://www.python.org/>`_, 
   `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
   `Sphinx <http://sphinx-doc.org/>`_,
-  `YAML <http://yaml.org/>`_), MacPorts, LaTex, Mac OS X
+  `YAML <http://yaml.org/>`_,
+  `OmniGraffle <http://www.omnigroup.com/omnigraffle>`_), 
+  MacPorts, LaTex, Mac OS X
 
 **OTHER INFORMATION**
 
@@ -174,3 +178,8 @@ MARIO MICHAEL KRELL
     Zusammenhänge und Berechenbarkeit),
     Mario Michael Krell (2009),
     degree dissertation, Humboldt University of Berlin, advisor: Bernd Kummer
+
+.. Bremen, 06.03.2014
+
+   .. image:: Unterschrift.jpg
+        :width: 3cm
