@@ -126,6 +126,10 @@ MARIO MICHAEL KRELL
 
 **MAJOR PUBLICATIONS**
 
+  - `How to evaluate an agent's behaviour to infrequent events? — Reliable performance estimation insensitive to class distribution <http://journal.frontiersin.org/Journal/10.3389/fncom.2014.00043/full>`_,
+    Sirko Straube, Mario Michael Krell (2014),
+    In Frontiers in Computational Neuroscience 8(43), doi:10.3389/fncom.2014.00043
+
   - `pySPACE — a signal processing and classification environment in Python <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00040/abstract>`_,
     Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, Frank Kirchner (2013),
     In Frontiers in Neuroinformatics 7(40): 1-11, doi:10.3389/fninf.2013.00040
