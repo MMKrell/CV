@@ -126,11 +126,11 @@ MARIO MICHAEL KRELL
 
 **MAJOR PUBLICATIONS**
 
-  - `How to evaluate an agent's behaviour to infrequent events? — Reliable performance estimation insensitive to class distribution <http://journal.frontiersin.org/Journal/10.3389/fncom.2014.00043/full>`_,
+  - `How to evaluate an agent's behaviour to infrequent events? — Reliable performance estimation insensitive to class distribution <http://dx.doi.org/10.3389/fncom.2014.00043>`_,
     Sirko Straube, Mario Michael Krell (2014),
     In Frontiers in Computational Neuroscience 8(43), doi:10.3389/fncom.2014.00043
 
-  - `pySPACE — a signal processing and classification environment in Python <http://www.frontiersin.org/Neuroinformatics/10.3389/fninf.2013.00040/abstract>`_,
+  - `pySPACE — a signal processing and classification environment in Python <http://dx.doi.org/10.3389/fninf.2013.00040>`_,
     Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, Frank Kirchner (2013),
     In Frontiers in Neuroinformatics 7(40): 1-11, doi:10.3389/fninf.2013.00040
 
@@ -144,8 +144,8 @@ MARIO MICHAEL KRELL
 
 **COMPUTER SKILLS**
 
-  `pySPACE <http://pyspace.github.io/pyspace/>`_ (
-  `Python <http://www.python.org/>`_, 
+  `pySPACE <http://pyspace.github.io/pyspace/>`_ 
+  (`Python <http://www.python.org/>`_, 
   `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
   `Sphinx <http://sphinx-doc.org/>`_,
   `YAML <http://yaml.org/>`_,
@@ -167,11 +167,11 @@ MARIO MICHAEL KRELL
 
   - `Memory and Processing Efficient Formula for Moving Variance Calculation in EEG and EMG Signal Processing <http://www.dfki.de/web/forschung/publikationen/renameFileForDownload?filename=131008_Memory%20and%20Processing%20Efficient%20Formula%20for%20Moving%20Variance%20Calculation%20in%20EEG%20and%20EMG%20Signal%20Processing_NEUROTECHNIX_Krell.pdf&file_id=uploads_2062>`_,
     Mario Michael Krell, Marc Tabie, Hendrik Wöhrle, Elsa Andrea Kirchner (2013),
-    In International Congress on Neurotechnology, Electronics and Informatics (NEUROTECHNIX-2013), SCITEPRESS Digital Library
+    In International Congress on Neurotechnology, Electronics and Informatics: 41-45, ScitePress, doi:10.5220/0004633800410045
 
-  - `A Dataflow-Based Mobile Brain Reading System on Chip with Supervised Online Calibration`,
+  - `A Dataflow-Based Mobile Brain Reading System on Chip with Supervised Online Calibration <http://dx.doi.org/10.5220/0004637800460053>`_,
     Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Elsa Andrea Kirchner, Frank Kirchner (2013),
-    In International Congress on Neurotechnology, Electronics and Informatics (NEUROTECHNIX-2013), SCITEPRESS Digital Library
+    In International Congress on Neurotechnology, Electronics and Informatics: 46-53, ScitePress, doi:10.5220/0004637800460053
 
   - `Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution`,
     Sirko Straube, Jan Hendrik Metzen, Anett Seeland, Mario Michael Krell, Elsa Andrea Kirchner (2011),
