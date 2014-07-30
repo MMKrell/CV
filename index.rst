@@ -80,7 +80,9 @@ MARIO MICHAEL KRELL
 
 :since 2010:  scientist, Robotics Group, University of Bremen, Frank Kirchner, 
               project `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
-                
+              
+              - developed three general concepts for connecting SVM variants
+                (relative margin, zero separation approach, single iteration approach)
               - several extensions of the relative margin machine
               - developed new parameter optimization algorithms,
                 sensor selection algorithms,
@@ -113,18 +115,28 @@ MARIO MICHAEL KRELL
 
 **Talks**
 
-  `Introduction to pySPACE workflows` (2013),
-  NIPS workshop *Machine Learning Open Source Software: Towards Open Workflows*, Lake Tahoe, Nevada, USA
+  - `Introduction to the Signal Processing and Classification Environment pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
+    PyData Berlin 2014, Berlin, Germany
+
+  - `Our Tools for Large Scale or Embedded Processing of Physiological Data` (2014),
+    Passive BCI Community Meeting, Delmenhorst, Germany
+
+  - `Introduction to pySPACE workflows` (2013),
+    NIPS workshop *Machine Learning Open Source Software: Towards Open Workflows*, Lake Tahoe, Nevada, USA
 
 **TEACHING**
 
-:WS2013: robotics 3b - learning algorithms for autonomous robots, Frank Kirchner
+:WS2013: lecture, learning algorithms for autonomous robots, Frank Kirchner
 :SS2012: tutorial, analysis 2 (mathematics), Bernd Stratmann
 :WS2011: tutorial, analysis 1 (mathematics), Bernd Stratmann
 :SS2010: tutorial, mathematics 2 (computer science), Ronald Stöver
 :WS2009: tutorial, mathematics 1 (computer science), Ronald Stöver
 
 **MAJOR PUBLICATIONS**
+
+  - `Generalizing, Optimizing, and Decoding Support Vector Machine Classification <http://robotik.dfki-bremen.de/de/forschung/publikationen/7471.html>`_,
+    Mario Michael Krell, Sirko Straube, Hendrik Wöhrle, Frank Kirchner (2014),
+    In Proceedings of the ECML/PKDD-2014, Nancy
 
   - `How to evaluate an agent's behaviour to infrequent events? — Reliable performance estimation insensitive to class distribution <http://dx.doi.org/10.3389/fncom.2014.00043>`_,
     Sirko Straube, Mario Michael Krell (2014),
@@ -149,7 +161,8 @@ MARIO MICHAEL KRELL
   `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
   `Sphinx <http://sphinx-doc.org/>`_,
   `YAML <http://yaml.org/>`_,
-  `OmniGraffle <http://www.omnigroup.com/omnigraffle>`_), 
+  `OmniGraffle <http://www.omnigroup.com/omnigraffle>`_,
+  `Git <https://github.com/>`_), 
   MacPorts, LaTex, Mac OS X
 
 **OTHER INFORMATION**
@@ -161,6 +174,12 @@ MARIO MICHAEL KRELL
 :hobbies:   singing (choir), dancing, music, running, cycling, solving problems
 
 **MINOR PUBLICATIONS**
+
+  - `Reconfigurable Dataflow Hardware Accelerators for Machine Learning and Robotics <http://robotik.dfki-bremen.de/de/forschung/publikationen/7446.html>`_
+    Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Anett Seeland, Elsa Andrea Kirchner, Frank Kirchner (2014)
+    In Proceedings of the ECML/PKDD-2014, Nancy
+
+
   - `On the Applicability of Brain Reading for Self-Controlled, Predictive Human-Machine Interfaces in Robotics <http://dx.plos.org/10.1371/journal.pone.0081732>`_,
     Elsa Andrea Kirchner, Su Kyoung Kim, Sirko Straube, Anett Seeland, Hendrik Wöhrle, Mario Michael Krell, Marc Tabie, Manfred Fahle (2013),
     In PLoS ONE 8(12): e81732, doi:10.1371/journal.pone.0081732
