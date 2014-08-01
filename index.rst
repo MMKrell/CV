@@ -83,18 +83,19 @@ MARIO MICHAEL KRELL
               
               - developed three general concepts for connecting SVM variants
                 (relative margin, zero separation approach, single iteration approach)
-              - several extensions of the relative margin machine
-              - developed new parameter optimization algorithms,
-                sensor selection algorithms,
+              - developed new 
+                visualization concepts for signal processing chains
+              - developed new parameter optimization algorithms and
+                sensor selection algorithms
               - open source release of 
-                `pySPACE <http://pyspace.github.io/pyspace/>`_,
-                improving, refactoring, restructuring 
-                and visualization concepts for signal processing chains
+                `pySPACE <http://pyspace.github.io/pyspace/>`_
+                (improving, refactoring, and restructuring)
               - improved documentation, documentation concept,
                 automatic API documentation generator
               - support for other software users 
                 and 
                 large simplification of user interface
+              - developed generic unit testing framework
               - numerous other improvements of pySPACE (e.g. 
                 multi-class classification, regression, bug fixes, 
                 style improvements, data handling)
@@ -103,10 +104,10 @@ MARIO MICHAEL KRELL
               project `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
 
               - literature research in BCI
-                and contributed to project proposal for 
+                and contribution to project proposal for 
                 `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
               - integrated classification and performance evaluation and
-                further algorithms into signal processing framework
+                further algorithms into a signal processing framework
               - algorithm tuning for faster processing
               - modeling of space simulation to reduce 12 degrees of freedom
                 to 9 restricted ones
