@@ -82,7 +82,7 @@ MARIO MICHAEL KRELL
               project `IMMI <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
               
               - developed three general concepts for connecting SVM variants
-                (relative margin, zero separation approach, single iteration approach)
+                (single iteration, relative margin, and origin separation approach)
               - developed new 
                 visualization concepts for signal processing chains
               - developed new parameter optimization algorithms and
@@ -127,6 +127,8 @@ MARIO MICHAEL KRELL
 
 **TEACHING**
 
+:WS2014: lecture, behaviour based robotics, Frank Kirchner
+:WS2014: lecture, learning algorithms for autonomous robots, Frank Kirchner
 :WS2013: lecture, learning algorithms for autonomous robots, Frank Kirchner
 :SS2012: tutorial, analysis 2 (mathematics), Bernd Stratmann
 :WS2011: tutorial, analysis 1 (mathematics), Bernd Stratmann
@@ -134,6 +136,10 @@ MARIO MICHAEL KRELL
 :WS2009: tutorial, mathematics 1 (computer science), Ronald Stöver
 
 **MAJOR PUBLICATIONS**
+
+  - `New one-class classifiers based on the origin separation approach <http://dx.doi.org/10.1016/j.patrec.2014.11.008>`_,
+    Mario Michael Krell, Hendrik Wöhrle (2014),
+    In Pattern Recognition Letters, doi:10.1016/j.patrec.2014.11.008
 
   - `Generalizing, Optimizing, and Decoding Support Vector Machine Classification <http://robotik.dfki-bremen.de/de/forschung/publikationen/7471.html>`_,
     Mario Michael Krell, Sirko Straube, Hendrik Wöhrle, Frank Kirchner (2014),
