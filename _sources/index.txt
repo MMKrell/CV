@@ -22,6 +22,7 @@ MARIO MICHAEL KRELL
           Robotics Group,
           
           Robert-Hooke-Str. 1, Bremen, D-28359, Germany,
+          
           phone: +49 421 178 45-6554 (W)
 :born:    Germany, Frankfurt (Oder), 25th February 1984
 :email:   krell@uni-bremen.de
@@ -30,38 +31,9 @@ MARIO MICHAEL KRELL
 
 **EDUCATION**
 
-..
-  =============== ===============
-  **EDUCATION**   
-  =============== ===============
-  **do a PhD**    since 2012, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, advisor: Frank Kirchner
-
-  **degree**      *in mathematics* ("Diplom"), 2009, focus: optimization and computer science, grade: 1.2
-
-  **pre-degree**  *in computer science* ("Vordiplom"), 2006, grade: 1.3
-
-  **university**  2003-2009, Humboldt University of Berlin
-
-  **high-school** 1996-2003, *university-entrance diploma*, Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder), major subjects: mathematics, physics, English, computer science, grade: 1.3
-  =============== ===============
-
-..
-  :do a PhD:    since 2012, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_,
-                advisor: Frank Kirchner
-
-  :degree:      *in mathematics* ("Diplom"), 2009, 
-                focus: optimization and computer science, grade: 1.2
-
-  :pre-degree:  *in computer science* ("Vordiplom"), 2006, grade: 1.3
-
-  :university:  2003-2009, Humboldt University of Berlin
-
-  :high-school: 1996-2003, *university-entrance diploma*, 
-                Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder),
-                major subjects: mathematics, physics, English, computer science,
-                grade: 1.3
-
-:since 2012:  *do a PhD*, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_,
+:since 2012:  *do a PhD*, `University of Bremen, Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
+              `Generalizing, Decoding, 
+              and Optimizing Support Vector Machine Classification`, 
               advisor: Frank Kirchner
 
 :2009:        *degree in mathematics* ("Diplom"),
@@ -75,6 +47,39 @@ MARIO MICHAEL KRELL
               Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder),
               major subjects: mathematics, physics, English, computer science,
               grade: 1.3
+
+**TEACHING**
+
+:WS2014: lecture, behaviour based robotics, Frank Kirchner
+:WS2014: lecture, learning algorithms for autonomous robots, Frank Kirchner
+:WS2013: lecture, learning algorithms for autonomous robots, Frank Kirchner
+:SS2012: tutorial, analysis 2 (mathematics), Bernd Stratmann
+:WS2011: tutorial, analysis 1 (mathematics), Bernd Stratmann
+:SS2010: tutorial, mathematics 2 (computer science), Ronald Stöver
+:WS2009: tutorial, mathematics 1 (computer science), Ronald Stöver
+
+**Talks**
+
+  - `Introduction to the Signal Processing and Classification Environment pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
+    PyData Berlin 2014, Berlin, Germany
+
+  - `Our Tools for Large Scale or Embedded Processing of Physiological Data` (2014),
+    Passive BCI Community Meeting, Delmenhorst, Germany
+
+  - `Introduction to pySPACE workflows` (2013),
+    NIPS workshop *Machine Learning Open Source Software: Towards Open Workflows*, Lake Tahoe, Nevada, USA
+
+**COMPUTER SKILLS**
+
+  `pySPACE <http://pyspace.github.io/pyspace/>`_ 
+  (`Python <http://www.python.org/>`_, 
+  `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
+  `Sphinx <http://sphinx-doc.org/>`_,
+  `YAML <http://yaml.org/>`_,
+  `OmniGraffle <http://www.omnigroup.com/omnigraffle>`_,
+  `Git <https://github.com/>`_), 
+  
+  MacPorts, LaTex, Mac OS X
 
 **WORK EXPERIENCE**
 
@@ -99,6 +104,8 @@ MARIO MICHAEL KRELL
               - numerous other improvements of pySPACE (e.g. 
                 multi-class classification, regression, bug fixes, 
                 style improvements, data handling)
+              - contribution to project proposals
+              - supervision of student assistants and a master thesis
 
 :2009-2010:   scientist, DFKI Bremen, Robotics Innovation Center, Frank Kirchner,
               project `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
@@ -114,32 +121,23 @@ MARIO MICHAEL KRELL
 
 :2005-2009:   student assistant, Humboldt University of Berlin, Bernd Kummer
 
-**Talks**
+**OTHER INFORMATION**
 
-  - `Introduction to the Signal Processing and Classification Environment pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
-    PyData Berlin 2014, Berlin, Germany
+:languages: German (mother tongue),
+            English (fluent),
+            French (basic)
 
-  - `Our Tools for Large Scale or Embedded Processing of Physiological Data` (2014),
-    Passive BCI Community Meeting, Delmenhorst, Germany
-
-  - `Introduction to pySPACE workflows` (2013),
-    NIPS workshop *Machine Learning Open Source Software: Towards Open Workflows*, Lake Tahoe, Nevada, USA
-
-**TEACHING**
-
-:WS2014: lecture, behaviour based robotics, Frank Kirchner
-:WS2014: lecture, learning algorithms for autonomous robots, Frank Kirchner
-:WS2013: lecture, learning algorithms for autonomous robots, Frank Kirchner
-:SS2012: tutorial, analysis 2 (mathematics), Bernd Stratmann
-:WS2011: tutorial, analysis 1 (mathematics), Bernd Stratmann
-:SS2010: tutorial, mathematics 2 (computer science), Ronald Stöver
-:WS2009: tutorial, mathematics 1 (computer science), Ronald Stöver
+:hobbies:   singing (choir), dancing, music, running, cycling, solving problems
 
 **MAJOR PUBLICATIONS**
 
   - `New one-class classifiers based on the origin separation approach <http://dx.doi.org/10.1016/j.patrec.2014.11.008>`_,
-    Mario Michael Krell, Hendrik Wöhrle (2014),
-    In Pattern Recognition Letters, doi:10.1016/j.patrec.2014.11.008
+    Mario Michael Krell, Hendrik Wöhrle (2015),
+    In Pattern Recognition Letters 53: 93-99, doi:10.1016/j.patrec.2014.11.008
+
+  - `An Adaptive Spatial Filter for User-Independent Single Trial Detection of Event-Related Potentials`,
+    Hendrik Wöhrle, Mario Michael Krell, Sirko Straube, Su Kyoung Kim, Elsa Andrea Kirchner, Frank Kirchner (2015),
+    In IEEE Transactions on Biomedical Engineering
 
   - `Generalizing, Optimizing, and Decoding Support Vector Machine Classification <http://robotik.dfki-bremen.de/de/forschung/publikationen/7471.html>`_,
     Mario Michael Krell, Sirko Straube, Hendrik Wöhrle, Frank Kirchner (2014),
@@ -161,26 +159,11 @@ MARIO MICHAEL KRELL
     David Feess, Mario Michael Krell\*, Jan Hendrik Metzen (2013),
     In PLoS ONE 8(7): e67543, doi:10.1371/journal.pone.0067543
 
-**COMPUTER SKILLS**
-
-  `pySPACE <http://pyspace.github.io/pyspace/>`_ 
-  (`Python <http://www.python.org/>`_, 
-  `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
-  `Sphinx <http://sphinx-doc.org/>`_,
-  `YAML <http://yaml.org/>`_,
-  `OmniGraffle <http://www.omnigroup.com/omnigraffle>`_,
-  `Git <https://github.com/>`_), 
-  MacPorts, LaTex, Mac OS X
-
-**OTHER INFORMATION**
-
-:languages: German (mother tongue),
-            English (fluent),
-            French (basic)
-
-:hobbies:   singing (choir), dancing, music, running, cycling, solving problems
-
 **MINOR PUBLICATIONS**
+
+  - `Concept of a data thread based parking space occupancy prediction in a berlin pilot region`,
+    Tim Tiedemann, Thomas Vögele, Mario Michael Krell, Jan Hendrik Metzen, Frank Kirchner (2015),
+    In Papers from the 2015 AAAI Workshop. Workshop on AI for Transportation (WAIT-2015), Austin, USA, AAAI Press
 
   - `Reconfigurable Dataflow Hardware Accelerators for Machine Learning and Robotics <http://robotik.dfki-bremen.de/de/forschung/publikationen/7446.html>`_
     Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Anett Seeland, Elsa Andrea Kirchner, Frank Kirchner (2014)
