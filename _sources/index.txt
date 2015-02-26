@@ -135,9 +135,9 @@ MARIO MICHAEL KRELL
     Mario Michael Krell, Hendrik Wöhrle (2015),
     In Pattern Recognition Letters 53: 93-99, doi:10.1016/j.patrec.2014.11.008
 
-  - `An Adaptive Spatial Filter for User-Independent Single Trial Detection of Event-Related Potentials`,
+  - `An Adaptive Spatial Filter for User-Independent Single Trial Detection of Event-Related Potentials <http://dx.doi.org/10.1109/TBME.2015.2402252>`_,
     Hendrik Wöhrle, Mario Michael Krell, Sirko Straube, Su Kyoung Kim, Elsa Andrea Kirchner, Frank Kirchner (2015),
-    In IEEE Transactions on Biomedical Engineering
+    In IEEE Transactions on Biomedical Engineering, doi:10.1109/TBME.2015.2402252
 
   - `Generalizing, Optimizing, and Decoding Support Vector Machine Classification <http://robotik.dfki-bremen.de/de/forschung/publikationen/7471.html>`_,
     Mario Michael Krell, Sirko Straube, Hendrik Wöhrle, Frank Kirchner (2014),
@@ -161,7 +161,7 @@ MARIO MICHAEL KRELL
 
 **MINOR PUBLICATIONS**
 
-  - `Concept of a data thread based parking space occupancy prediction in a berlin pilot region`,
+  - `Concept of a Data Thread Based Parking Space Occupancy Prediction in a Berlin Pilot Region`,
     Tim Tiedemann, Thomas Vögele, Mario Michael Krell, Jan Hendrik Metzen, Frank Kirchner (2015),
     In Papers from the 2015 AAAI Workshop. Workshop on AI for Transportation (WAIT-2015), Austin, USA, AAAI Press
 
