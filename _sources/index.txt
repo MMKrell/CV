@@ -59,6 +59,65 @@ Dr. MARIO MICHAEL KRELL
 
 |vspace| |br|
 
+**TEACHING**
+
+========== ======== ========================================= ===============
+Semester   Type     Title                                     Organizer
+========== ======== ========================================= ===============
+**SS2015** lecture  reinforcement learning                    Frank Kirchner
+**SS2015** tutorial fundamentals in computer science 2        Frank Kirchner
+**WS2014** lecture  behaviour based robotics                  Frank Kirchner
+**WS2014** lecture  learning algorithms for autonomous robots Frank Kirchner
+**WS2013** lecture  learning algorithms for autonomous robots Frank Kirchner
+**SS2012** tutorial analysis 2 (mathematics)                  Bernd Stratmann
+**WS2011** tutorial analysis 1 (mathematics)                  Bernd Stratmann
+**SS2010** tutorial mathematics 2 (computer science)          Ronald Stöver
+**WS2009** tutorial mathematics 1 (computer science)          Ronald Stöver
+========== ======== ========================================= ===============
+
+|vspace| |br|
+
+**MAJOR PUBLICATIONS**
+
+  - `Generalizing, Decoding, and Optimizing 
+    Support Vector Machine Classification
+    <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
+    Mario Michael Krell (2015),
+    PhD Thesis, University of Bremen, Bremen
+
+  - `New one-class classifiers based on the origin separation approach 
+    <http://dx.doi.org/10.1016/j.patrec.2014.11.008>`_,
+    Mario Michael Krell, Hendrik Wöhrle (2015),
+    In Pattern Recognition Letters 53: 93-99, doi:10.1016/j.patrec.2014.11.008
+
+  - `How to evaluate an agent's behaviour to infrequent events? — 
+    Reliable performance estimation insensitive to class distribution
+    <http://dx.doi.org/10.3389/fncom.2014.00043>`_,
+    Sirko Straube, Mario Michael Krell (2014),
+    In Frontiers in Computational Neuroscience 8(43),
+    doi:10.3389/fncom.2014.00043
+
+  - `pySPACE — a signal processing and classification environment in Python
+    <http://dx.doi.org/10.3389/fninf.2013.00040>`_,
+    Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, 
+    Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, 
+    Frank Kirchner (2013),
+    In Frontiers in Neuroinformatics 7(40): 1-11, doi:10.3389/fninf.2013.00040
+
+  - `Balanced Relative Margin Machine - 
+    The Missing Piece Between FDA and SVM Classification
+    <http://dx.doi.org/10.1016/j.patrec.2013.09.018>`_,
+    Mario Michael Krell, David Feess, Sirko Straube (2014),
+    In Pattern Recognition Letters 41: 43-52, doi:10.1016/j.patrec.2013.09.018
+
+  - `Comparison of Sensor Selection Mechanisms for an 
+    ERP-Based Brain-Computer Interface
+    <http://dx.plos.org/10.1371/journal.pone.0067543>`_,
+    David Feess, Mario Michael Krell\*, Jan Hendrik Metzen (2013),
+    In PLoS ONE 8(7): e67543, doi:10.1371/journal.pone.0067543
+
+|vspace| |br|
+
 **WORK EXPERIENCE**
 
 :since 2015: postdoc, Robotics Group, University of Bremen, Frank Kirchner,
@@ -109,86 +168,7 @@ Dr. MARIO MICHAEL KRELL
 
 :2005-2009:   student assistant, Humboldt University of Berlin, Bernd Kummer
 
-|vspace| |br|
 
-**TEACHING**
-
-========== ======== ========================================= ===============
-Semester   Type     Title                                     Organizer
-========== ======== ========================================= ===============
-**SS2015** lecture  reinforcement learning                    Frank Kirchner
-**SS2015** tutorial fundamentals in computer science 2        Frank Kirchner
-**WS2014** lecture  behaviour based robotics                  Frank Kirchner
-**WS2014** lecture  learning algorithms for autonomous robots Frank Kirchner
-**WS2013** lecture  learning algorithms for autonomous robots Frank Kirchner
-**SS2012** tutorial analysis 2 (mathematics)                  Bernd Stratmann
-**WS2011** tutorial analysis 1 (mathematics)                  Bernd Stratmann
-**SS2010** tutorial mathematics 2 (computer science)          Ronald Stöver
-**WS2009** tutorial mathematics 1 (computer science)          Ronald Stöver
-========== ======== ========================================= ===============
-
-|vspace| |br|
-
-**MAJOR PUBLICATIONS**
-
-  - `Generalizing, Decoding, and Optimizing 
-    Support Vector Machine Classification
-    <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
-    Mario Michael Krell (2015),
-    PhD Thesis, University of Bremen, Bremen
-
-  - `Accounting for Task-Difficulty 
-    in Active Multi-Task Robot Control Learning
-    <http://dx.doi.org/10.1007/s13218-015-0363-2>`_,
-    Alexander Fabisch, Jan Hendrik Metzen, Mario Michael Krell, 
-    Frank Kirchner (2015),
-    In KI - Künstliche Intelligenz, 1-9,
-    doi:10.1007/s13218-015-0363-2
-
-  - `New one-class classifiers based on the origin separation approach 
-    <http://dx.doi.org/10.1016/j.patrec.2014.11.008>`_,
-    Mario Michael Krell, Hendrik Wöhrle (2015),
-    In Pattern Recognition Letters 53: 93-99, doi:10.1016/j.patrec.2014.11.008
-
-  - `An Adaptive Spatial Filter for User-Independent 
-    Single Trial Detection of Event-Related Potentials
-    <http://dx.doi.org/10.1109/TBME.2015.2402252>`_,
-    Hendrik Wöhrle, Mario Michael Krell, Sirko Straube, 
-    Su Kyoung Kim, Elsa Andrea Kirchner, Frank Kirchner (2015),
-    In IEEE Transactions on Biomedical Engineering, 
-    doi:10.1109/TBME.2015.2402252
-
-  - `Generalizing, Optimizing, and Decoding 
-    Support Vector Machine Classification 
-    <http://robotik.dfki-bremen.de/de/forschung/publikationen/7471.html>`_,
-    Mario Michael Krell, Sirko Straube, Hendrik Wöhrle, Frank Kirchner (2014),
-    In Proceedings of the ECML/PKDD-2014, Nancy
-
-  - `How to evaluate an agent's behaviour to infrequent events? — 
-    Reliable performance estimation insensitive to class distribution
-    <http://dx.doi.org/10.3389/fncom.2014.00043>`_,
-    Sirko Straube, Mario Michael Krell (2014),
-    In Frontiers in Computational Neuroscience 8(43),
-    doi:10.3389/fncom.2014.00043
-
-  - `pySPACE — a signal processing and classification environment in Python
-    <http://dx.doi.org/10.3389/fninf.2013.00040>`_,
-    Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, 
-    Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, 
-    Frank Kirchner (2013),
-    In Frontiers in Neuroinformatics 7(40): 1-11, doi:10.3389/fninf.2013.00040
-
-  - `Balanced Relative Margin Machine - 
-    The Missing Piece Between FDA and SVM Classification
-    <http://dx.doi.org/10.1016/j.patrec.2013.09.018>`_,
-    Mario Michael Krell, David Feess, Sirko Straube (2014),
-    In Pattern Recognition Letters 41: 43-52, doi:10.1016/j.patrec.2013.09.018
-
-  - `Comparison of Sensor Selection Mechanisms for an 
-    ERP-Based Brain-Computer Interface
-    <http://dx.plos.org/10.1371/journal.pone.0067543>`_,
-    David Feess, Mario Michael Krell\*, Jan Hendrik Metzen (2013),
-    In PLoS ONE 8(7): e67543, doi:10.1371/journal.pone.0067543
 
 |vspace| |br|
 
@@ -238,6 +218,22 @@ Semester   Type     Title                                     Organizer
 
 **MINOR PUBLICATIONS**
 
+  - `Accounting for Task-Difficulty 
+    in Active Multi-Task Robot Control Learning
+    <http://dx.doi.org/10.1007/s13218-015-0363-2>`_,
+    Alexander Fabisch, Jan Hendrik Metzen, Mario Michael Krell, 
+    Frank Kirchner (2015),
+    In KI - Künstliche Intelligenz, 1-9,
+    doi:10.1007/s13218-015-0363-2
+
+  - `An Adaptive Spatial Filter for User-Independent 
+    Single Trial Detection of Event-Related Potentials
+    <http://dx.doi.org/10.1109/TBME.2015.2402252>`_,
+    Hendrik Wöhrle, Mario Michael Krell, Sirko Straube, 
+    Su Kyoung Kim, Elsa Andrea Kirchner, Frank Kirchner (2015),
+    In IEEE Transactions on Biomedical Engineering, 
+    doi:10.1109/TBME.2015.2402252
+
   - `Concept of a Data Thread Based Parking Space Occupancy Prediction 
     in a Berlin Pilot Region 
     <http://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10130>`_,
@@ -245,6 +241,12 @@ Semester   Type     Title                                     Organizer
     Frank Kirchner (2015),
     In Papers from the 2015 AAAI Workshop. 
     Workshop on AI for Transportation (WAIT-2015), Austin, USA, AAAI Press
+
+  - `Generalizing, Optimizing, and Decoding 
+    Support Vector Machine Classification 
+    <http://robotik.dfki-bremen.de/de/forschung/publikationen/7471.html>`_,
+    Mario Michael Krell, Sirko Straube, Hendrik Wöhrle, Frank Kirchner (2014),
+    In Proceedings of the ECML/PKDD-2014, Nancy
 
   - `Reconfigurable Dataflow Hardware Accelerators 
     for Machine Learning and Robotics
