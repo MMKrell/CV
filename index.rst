@@ -45,11 +45,23 @@ Dr. MARIO MICHAEL KRELL
 
 :2015:      `PhD in machine learning
             <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
-            University of Bremen, Robotics Group, advisor: Frank Kirchner
-            
+            University of Bremen, Robotics Group, advisor: Frank Kirchner,
+
+            `Generalizing, Decoding, and Optimizing 
+            Support Vector Machine Classification
+            <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
+            Mario Michael Krell (2015),
+            PhD Thesis, University of Bremen, Bremen
+
 :2009:      degree in mathematics ("Diplom"),
             focus: optimization and computer science,
-              
+
+            `Generalized Derivatives in Nonsmooth Analysis: Connections and Computability`,
+            (original german title: 
+            `Verallgemeinerte Ableitungen in der nichtglatten Analysis: Zusammenhänge und Berechenbarkeit`),
+            Mario Michael Krell (2009),
+            degree dissertation, Humboldt University of Berlin, advisor: Bernd Kummer
+
 :2006:      pre-degree in computer science ("Vordiplom")
               
 :2003:      Humboldt University of Berlin (till 2009)
@@ -61,29 +73,31 @@ Dr. MARIO MICHAEL KRELL
 
 **TEACHING**
 
-========== ======== ========================================= ===============
-Semester   Type     Title                                     Organizer
-========== ======== ========================================= ===============
-**SS2015** lecture  reinforcement learning                    Frank Kirchner
-**SS2015** tutorial fundamentals in computer science 2        Frank Kirchner
-**WS2014** lecture  behaviour based robotics                  Frank Kirchner
-**WS2014** lecture  learning algorithms for autonomous robots Frank Kirchner
-**WS2013** lecture  learning algorithms for autonomous robots Frank Kirchner
-**SS2012** tutorial analysis 2 (mathematics)                  Bernd Stratmann
-**WS2011** tutorial analysis 1 (mathematics)                  Bernd Stratmann
-**SS2010** tutorial mathematics 2 (computer science)          Ronald Stöver
-**WS2009** tutorial mathematics 1 (computer science)          Ronald Stöver
-========== ======== ========================================= ===============
+======== ================ ============================================= ==============
+Semester Type             Title                                         Organizer
+======== ================ ============================================= ==============
+WS2015   complete lecture learning algorithms for autonomous robots     Frank Kirchner
+SS2015   lecture          reinforcement learning                        Frank Kirchner
+SS2015   corrected exams  fundamentals in computer science 2            Frank Kirchner
+WS2014   coordination     behaviour based robotics                      Frank Kirchner
+WS2014   lecture+coord.   learning algorithms for autonomous robots     Frank Kirchner
+WS2013   lecture+tutorial learning algorithms for autonomous robots     Frank Kirchner
+SS2012   tutorial         analysis 2 (mathematics)                      Bernd Stratmann
+WS2011   tutorial         analysis 1 (mathematics)                      Bernd Stratmann
+SS2010   tutorial         mathematics 2 (computer science)              Ronald Stöver
+WS2009   tutorial         mathematics 1 (computer science)              Ronald Stöver
+before   exercise sheets  corrections in different mathematics lectures Various
+======== ================ ============================================= ==============
 
 |vspace| |br|
 
 **MAJOR PUBLICATIONS**
 
-  - `Generalizing, Decoding, and Optimizing 
-    Support Vector Machine Classification
-    <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
-    Mario Michael Krell (2015),
-    PhD Thesis, University of Bremen, Bremen
+  - `Backtransformation: A new representation of data processing chains with a scalar decision function
+    <http://dx.doi.org/10.1007/s11634-015-0229-3>`_,
+    Mario Michael Krell, Sirko Straube (2015),
+    Advances in Data Analysis and Classification: 1-25,
+    doi:10.1007/s11634-015-0229-3
 
   - `New one-class classifiers based on the origin separation approach 
     <http://dx.doi.org/10.1016/j.patrec.2014.11.008>`_,
@@ -127,6 +141,15 @@ Semester   Type     Title                                     Organizer
              `Entern
              <http://robotik.dfki-bremen.de/en/research/projects/entern.html>`_,
              `Robocademy <http://robotik.dfki-bremen.de/en/research/projects/robocademy.html>`_
+             
+             - project acquisition
+             - improvement of algorithms to better operate when few data 
+               or few resources are available
+             - counseling of students and employees in the context of 
+               machine learning or pySPACE
+             - master thesis supervision (`data selection strategies for SVMs 
+               <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
+               automatic processing chain optimization with pySPACE)
 
 :2010-2015:  scientist, Robotics Group, University of Bremen, Frank Kirchner, 
              project `IMMI
@@ -186,6 +209,10 @@ Semester   Type     Title                                     Organizer
 
 |vspace| |br|
 
+.. raw:: latex
+
+    \newpage
+
 **OTHER INFORMATION**
 
 :languages: German (mother tongue),
@@ -197,11 +224,9 @@ Semester   Type     Title                                     Organizer
 
 |vspace| |br|
 
-.. raw:: latex
+**TALKS AND WORKSHOPS**
 
-    \newpage
-
-**Talks**
+  - pySPACE workshop (2015), DFKI RIC, Bremen, Germany
 
   - `Introduction to the Signal Processing and Classification Environment
     pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
@@ -214,9 +239,20 @@ Semester   Type     Title                                     Organizer
     NIPS workshop *Machine Learning Open Source Software: 
     Towards Open Workflows*, Lake Tahoe, Nevada, USA
 
-|vspace| |br|
-
 **MINOR PUBLICATIONS**
+
+
+  - `Comparison of Data Selection Strategies for Online Support Vector Machine Classification
+    <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_,
+    Mario Michael Krell, Nils Wilshusen, Andrei Cristian Ignat, Su Kyoung Kim (2015),
+    In International Congress on Neurotechnology, Electronics and Informatics:
+    59-67, ScitePress, doi:10.5220/0005650700590067
+
+  - `raxDAWN: Circumventing Overfitting of the Adaptive xDAWN
+    <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=raxDAWN.pdf&file_id=uploads_2594>`_,
+    Mario Michael Krell, Anett Seeland, Hendrik Wöhrle (2015),
+    In International Congress on Neurotechnology, Electronics and Informatics:
+    68-75, ScitePress, doi:10.5220/0005657500680075
 
   - `Accounting for Task-Difficulty 
     in Active Multi-Task Robot Control Learning
@@ -283,12 +319,6 @@ Semester   Type     Title                                     Organizer
     Elsa Andrea Kirchner (2011),
     Proceedings of the 41st Meeting of the Society for Neuroscience 2011,
     Washington, DC, USA
-
-  - `Generalized Derivatives in Nonsmooth Analysis: Connections and Computability`,
-    (original german title: 
-    `Verallgemeinerte Ableitungen in der nichtglatten Analysis: Zusammenhänge und Berechenbarkeit`),
-    Mario Michael Krell (2009),
-    degree dissertation, Humboldt University of Berlin, advisor: Bernd Kummer
 
 .. Bremen, 06.03.2014
 
