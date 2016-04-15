@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Curriculum Vitae of Mario Michael Krell'
-copyright = u'2014, Mario Michael Krell'
+copyright = u'2016, Mario Michael Krell'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -182,8 +182,9 @@ latex_elements = {
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
-'preamble': "\\renewcommand{\chapter}{\section*}\n\\renewcommand{\maketitle}{}\n\\renewcommand{\\tableofcontents}{}\n\\renewcommand{\phantomsection}{}"
+'preamble': "\\renewcommand{\chapter}{\section*}\n\\renewcommand{\maketitle}{}\n\\renewcommand{\\tableofcontents}{}\n\\renewcommand{\phantomsection}{}",
 }
+
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
@@ -198,7 +199,7 @@ latex_documents = [
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
-#latex_use_parts = False
+latex_use_parts = False
 #latex_use_parts = True
 
 # If true, show page references after internal links.

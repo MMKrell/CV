@@ -3,13 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. |vspace| raw:: latex
+.. |vspace| raw:: latex # abbreviation commands for spaces between parts
 
    \vspace{5mm}
 
 .. |br| raw:: html
 
    <br />
+
+.. |np| raw:: latex
+
+   \newpage
+   \vspace{5mm}
+
 
 CURRICULUM VITAE
 ++++++++++++++++
@@ -27,55 +33,177 @@ Dr. MARIO MICHAEL KRELL
 
 **PERSONAL INFORMATION**
 
-:address: `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_,
-          
-          University of Bremen,
-          Faculty 3 - Mathematics and Computer Science, 
-          
-          
-          Robert-Hooke-Str. 1, Bremen, D-28359, Germany
-          
+:email:   krell@uni-bremen.de
 :phone:   +49 421 178 45-6554 (W)
 :born:    Germany, Frankfurt (Oder), 25th February 1984
-:email:   krell@uni-bremen.de
+
+|vspace| |br|
+
+**SUMMARY**
+
+  - Postdoc (senior scientist) with 7-year background in machine learning and data
+    analysis with electroencephalographic and robotic data
+  - Strong problem solving, mathematical analysis, and interdisciplinary team work skills
+  - Interested in leading
+    data analysis and machine learning algorithm development in industry as well as
+    in university for interesting applications that help humanity
 
 |vspace| |br|
 
 **EDUCATION**
 
-:2015:      `PhD in machine learning
-            <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
-            University of Bremen, Robotics Group, advisor: Frank Kirchner,
+==== ==================================== ==================================== ============== =====
+Year Degree                               Institute                            Advisor        Grade
+---- ------------------------------------ ------------------------------------ -------------- -----
+2015 PhD in machine learning              University of Bremen, Robotics Group Kirchner, F.   
+2009 degree in mathematics ("Diplom")     Humboldt University of Berlin        Kummer, B.     1.2
+2006 pre-degree in computer science       Humboldt University of Berlin                       1.3
+2003 university-entrance diploma          C.-F.-Gauß-Gymnasium Frankfurt (O.)                 1.3
+==== ==================================== ==================================== ============== =====
 
-            `Generalizing, Decoding, and Optimizing 
+:Final Thesis:
+
+  -         `Generalizing, Decoding, and Optimizing 
             Support Vector Machine Classification
             <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
             Mario Michael Krell (2015),
             PhD Thesis, University of Bremen, Bremen
 
-:2009:      degree in mathematics ("Diplom"),
-            focus: optimization and computer science,
-
-            `Generalized Derivatives in Nonsmooth Analysis: Connections and Computability`,
-            (original german title: 
-            `Verallgemeinerte Ableitungen in der nichtglatten Analysis: Zusammenhänge und Berechenbarkeit`),
+  -         `Generalized Derivatives in Nonsmooth Analysis: Connections and Computability`,
             Mario Michael Krell (2009),
-            degree dissertation, Humboldt University of Berlin, advisor: Bernd Kummer
-
-:2006:      pre-degree in computer science ("Vordiplom")
-              
-:2003:      Humboldt University of Berlin (till 2009)
-              
-:2003:      university-entrance diploma, 
-            Carl-Friedrich-Gauß-Gymnasium, Frankfurt (Oder)
+            diploma thesis, Humboldt University of Berlin, Berlin
 
 |vspace| |br|
+
+**SKILLS**
+
+  - problem solving, machine learning expertise,
+    mathematical analysis, optimization
+
+  - research and data analysis, research writing
+
+  - teaching, and scientific presentation
+
+  - interdisciplinary team work 
+    (system engineers, computer scientists, neuroscientists, management, etc.)
+
+  - knowledge of robotics and related problems
+  
+  - knowledge of man-machine interfaces
+
+  - project acquisition and fast writing of parts from project proposals
+
+  - `Python programming <http://www.python.org/>`_, 
+    `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
+    `Sphinx <http://sphinx-doc.org/>`_,
+    `YAML <http://yaml.org/>`_,
+    `OmniGraffle <http://www.omnigroup.com/omnigraffle>`_,
+    `Git <https://github.com/MMKrell>`_ 
+    (see `pySPACE <http://pyspace.github.io/pyspace/>`_)
+  
+  - `LaTeX markup <https://en.wikipedia.org/wiki/LaTeX>`_, 
+    Mac OS X, `MacPorts <https://www.macports.org/>`_, 
+    basics of Microsoft Office
+
+  - languages: German (mother tongue),
+    English (fluent), French (basic)
+
+  - hobbies: `singing (choir) <http://chor.hfk-bremen.de/kammerchor/vita/>`_, 
+    dancing, music, running, cycling
+
+|np| |br|
+
+**WORK EXPERIENCE**
+
+:since 2015: *Sr. Scientist* at the 
+             `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
+             University of Bremen, Head: Frank Kirchner
+
+             - caretaker of the machine learning and optimization workgroup
+             - co-caretaker of the signal processing workgroup
+             - work in different projects like 
+               `RECUPERA-Reha 
+               <http://robotik.dfki-bremen.de/en/research/projects/recupera-reha.html>`_,
+               `BesMan
+               <http://robotik.dfki-bremen.de/en/research/projects/besman.html>`_,
+               `Entern
+               <http://robotik.dfki-bremen.de/en/research/projects/entern.html>`_,
+               `Robocademy 
+               <http://robotik.dfki-bremen.de/en/research/projects/robocademy.html>`_
+             - support of projects with or for the industry 
+               (health devices, cars, airplanes, wearables, telecommunication, art)
+             - data analysis for order by employer's liability insurance association
+             - project acquisition 
+               (contribution to more than 10 project proposals)
+             - counseling of students and employees in the context of 
+               machine learning or pySPACE
+             - improved algorithms to better operate when few data 
+               or few resources are available
+             - software development
+             - master thesis supervision (`data selection strategies for SVMs 
+               <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
+               automatic processing chain optimization with pySPACE)
+
+:2010-2015:  *Scientist* at the 
+             `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
+             University of Bremen, Head: Frank Kirchner
+
+             - successfully finished the project `IMMI
+               <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
+               (intelligent man-machine interface)
+             - general concepts for connecting SVM variants to improve
+               understanding (especially for teaching) and usability
+             - backtransformation (new 
+               visualization concept for signal processing chains)
+             - new parameter optimization algorithms and
+               sensor selection algorithms
+             - open source release of 
+               `pySPACE <http://pyspace.github.io/pyspace/>`_
+               (improving, refactoring, and restructuring)
+             - improved documentation, documentation concept,
+               automatic API documentation generator
+             - support for other software users 
+               and 
+               large simplification of user interface
+             - generic unit testing framework in pySPACE
+             - numerous further improvements of pySPACE (e.g., 
+               multi-class classification, regression, bug fixes, 
+               style improvements, data handling)
+             - contribution to project proposals
+             - supervision of student assistants and a master thesis
+
+:2009-2010:  *Jr. Scientist* at the DFKI GmbH 
+             (German Research Center for Artificial Intelligence), `Robotics Innovation Center 
+             <http://robotik.dfki-bremen.de/en/startpage.html>`_, Bremen, 
+             Head: Frank Kirchner
+
+             - successfully finished the project `VI-Bot
+               <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
+               (Virtual Immersion for holistic feedback control of semi-autonomous robots)
+             - contribution to the project proposal of the follow up project `IMMI
+               <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
+               (e.g., literature research on brain-computer interfaces)
+             - classification, performance evaluation, and
+               further algorithms added to
+               `pySPACE <http://pyspace.github.io/pyspace/>`_
+             - faster processing by algorithm tuning in pySPACE
+             - mathematical model for space simulation with a
+               six-axis industrial robot and a cable-guided 3D-movement system
+               in the project
+               `Inveritas
+               <http://robotik.dfki-bremen.de/en/research/projects/inveritas.html>`_
+
+:2005-2009:   *Student Assistant* of Bernd Kummer
+              at the Humboldt University of Berlin
+
+|np| |br|
 
 **TEACHING**
 
 ======== ================ ============================================= ==============
 Semester Type             Title                                         Organizer
 ======== ================ ============================================= ==============
+SS2016   lecture+tutorial reinforcement learning                        Frank Kirchner
 WS2015   complete lecture learning algorithms for autonomous robots     Frank Kirchner
 SS2015   lecture          reinforcement learning                        Frank Kirchner
 SS2015   corrected exams  fundamentals in computer science 2            Frank Kirchner
@@ -92,6 +220,10 @@ before   exercise sheets  corrections in different mathematics lectures Various
 |vspace| |br|
 
 **MAJOR PUBLICATIONS**
+
+  - `Generalizing, Decoding, and Optimizing Support Vector Machine Classification
+    <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
+    Mario Michael Krell (2015), PhD Thesis, University of Bremen, Bremen
 
   - `Backtransformation: A new representation of data processing chains with a scalar decision function
     <http://dx.doi.org/10.1007/s11634-015-0229-3>`_,
@@ -132,115 +264,27 @@ before   exercise sheets  corrections in different mathematics lectures Various
 
 |vspace| |br|
 
-**WORK EXPERIENCE**
-
-:since 2015: postdoc, Robotics Group, University of Bremen, Frank Kirchner,
-             different projects like `RECUPERA-Reha <http://robotik.dfki-bremen.de/en/research/projects/recupera-reha.html>`_,
-             `BesMan
-             <http://robotik.dfki-bremen.de/en/research/projects/besman.html>`_,
-             `Entern
-             <http://robotik.dfki-bremen.de/en/research/projects/entern.html>`_,
-             `Robocademy <http://robotik.dfki-bremen.de/en/research/projects/robocademy.html>`_
-             
-             - project acquisition
-             - improvement of algorithms to better operate when few data 
-               or few resources are available
-             - counseling of students and employees in the context of 
-               machine learning or pySPACE
-             - master thesis supervision (`data selection strategies for SVMs 
-               <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
-               automatic processing chain optimization with pySPACE)
-
-:2010-2015:  scientist, Robotics Group, University of Bremen, Frank Kirchner, 
-             project `IMMI
-             <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
-             
-             - developed general concepts for connecting SVM variants
-             - developed new 
-               visualization concepts for signal processing chains
-             - developed new parameter optimization algorithms and
-               sensor selection algorithms
-             - open source release of 
-               `pySPACE <http://pyspace.github.io/pyspace/>`_
-               (improving, refactoring, and restructuring)
-             - improved documentation, documentation concept,
-               automatic API documentation generator
-             - support for other software users 
-               and 
-               large simplification of user interface
-             - developed generic unit testing framework
-             - numerous other improvements of pySPACE (e.g., 
-               multi-class classification, regression, bug fixes, 
-               style improvements, data handling)
-             - contribution to project proposals
-             - supervision of student assistants and a master thesis
-
-:2009-2010:  scientist, DFKI Bremen, Robotics Innovation Center, 
-             Frank Kirchner, project `VI-Bot
-             <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
-
-             - literature research in BCI
-               and contribution to project proposal for `IMMI
-               <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
-             - integrated classification and performance evaluation and
-               further algorithms into the predecessor of
-               `pySPACE <http://pyspace.github.io/pyspace/>`_
-             - algorithm tuning for faster processing
-             - modeling of space simulation to reduce 12 degrees of freedom
-               to 9 restricted ones
-
-:2005-2009:   student assistant, Humboldt University of Berlin, Bernd Kummer
-
-
-
-|vspace| |br|
-
-**COMPUTER SKILLS**
-
-  `pySPACE <http://pyspace.github.io/pyspace/>`_ 
-  (`Python <http://www.python.org/>`_, 
-  `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
-  `Sphinx <http://sphinx-doc.org/>`_,
-  `YAML <http://yaml.org/>`_,
-  `OmniGraffle <http://www.omnigroup.com/omnigraffle>`_,
-  `Git <https://github.com/>`_), 
-  
-  MacPorts, LaTex, Mac OS X
-
-|vspace| |br|
-
-.. raw:: latex
-
-    \newpage
-
-**OTHER INFORMATION**
-
-:languages: German (mother tongue),
-            English (fluent),
-            French (basic)
-
-:hobbies:   singing (choir), dancing, music, running, cycling, solving problems
-
-
-|vspace| |br|
-
 **TALKS AND WORKSHOPS**
 
   - pySPACE workshop (2015), DFKI RIC, Bremen, Germany
+  
+  - Representation of the DFKI RIC at the **CeBIT**
+    international computer expo (2015), Hannover, Germany
 
   - `Introduction to the Signal Processing and Classification Environment
     pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
     PyData Berlin 2014, Berlin, Germany
 
-  - `Our Tools for Large Scale or Embedded Processing of Physiological Data`
+  - `Our Tools for Large Scale other Embedded Processing of Physiological Data`
     (2014), Passive BCI Community Meeting, Delmenhorst, Germany
 
   - `Introduction to pySPACE workflows` (2013),
-    NIPS workshop *Machine Learning Open Source Software: 
+    **NIPS** workshop *Machine Learning Open Source Software: 
     Towards Open Workflows*, Lake Tahoe, Nevada, USA
 
-**MINOR PUBLICATIONS**
+|np| |br|
 
+**MINOR PUBLICATIONS**
 
   - `Comparison of Data Selection Strategies for Online Support Vector Machine Classification
     <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_,
@@ -290,7 +334,6 @@ before   exercise sheets  corrections in different mathematics lectures Various
     Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Anett Seeland, 
     Elsa Andrea Kirchner, Frank Kirchner (2014),
     In Proceedings of the ECML/PKDD-2014, Nancy
-
 
   - `On the Applicability of Brain Reading for Self-Controlled, 
     Predictive Human-Machine Interfaces in Robotics 
