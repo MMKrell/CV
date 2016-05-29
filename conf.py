@@ -182,7 +182,7 @@ latex_elements = {
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
-'preamble': "\\renewcommand{\chapter}{\section*}\n\\renewcommand{\maketitle}{}\n\\renewcommand{\\tableofcontents}{}\n\\renewcommand{\phantomsection}{}",
+'preamble': "\\renewcommand{\chapter}{\section}\n\\renewcommand{\maketitle}{}\n\\renewcommand{\\tableofcontents}{}\n\\renewcommand{\phantomsection}{}\n\\setcounter{secnumdepth}{0}",
 }
 
 
