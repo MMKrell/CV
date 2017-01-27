@@ -1,8 +1,3 @@
-.. CV documentation master file, created by
-   sphinx-quickstart on Fri Aug  9 18:38:08 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 .. |vspace| raw:: latex # abbreviation commands for spaces between parts
 
    \vspace{5mm}
@@ -34,15 +29,14 @@ Dr. MARIO MICHAEL KRELL
 **PERSONAL INFORMATION**
 
 :contact: krell@uni-bremen.de
-:phone:   +49 421 178 45-6554 (W)
 :born:    Germany, Frankfurt (Oder), 25th February 1984, German nationality
-:others:  driving license: class B
+:others:  driver's license: class B
 
 |vspace| |br|
 
 **SUMMARY**
 
-  - Postdoc (senior scientist) with 7-year background in machine learning and data
+  - Postdoc (senior scientist) with 8-year background in machine learning and data
     analysis
   - Strong problem solving, mathematical analysis, and interdisciplinary teamwork skills
   - Interested in leading
@@ -55,12 +49,12 @@ Dr. MARIO MICHAEL KRELL
 **EDUCATION**
 
 ===== ==================================== ==================================== ============== =====
-Time  Degree                               Institute                            Advisor        Grade
+Time  Degree                               Institute                            Advisor        GPA
 ----- ------------------------------------ ------------------------------------ -------------- -----
-03/15 PhD in machine learning              University of Bremen, Robotics Group Kirchner, F.   1.0
-03/09 degree in mathematics ("Diplom")     Humboldt University of Berlin        Kummer, B.     1.2
-07/06 pre-degree in computer science       Humboldt University of Berlin                       1.3
-06/03 university-entrance diploma          C.-F.-Gauß-Gymnasium Frankfurt (O.)                 1.3
+03/15 PhD in machine learning              University of Bremen, Robotics Group Kirchner, F.   4.0
+03/09 degree in mathematics ("Diplom")     Humboldt University of Berlin        Kummer, B.     3.9
+07/06 pre-degree in computer science       Humboldt University of Berlin                       3.8
+06/03 university-entrance diploma          C.-F.-Gauß-Gymnasium Frankfurt (O.)                 3.8
 ===== ==================================== ==================================== ============== =====
 
 :Final Thesis:
@@ -68,12 +62,12 @@ Time  Degree                               Institute                            
   -         `Generalizing, Decoding, and Optimizing 
             Support Vector Machine Classification
             <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
-            Mario Michael Krell (2015),
-            PhD Thesis, University of Bremen, Bremen
+            MM Krell (2015),
+            PhD Thesis, University of Bremen, Bremen, 1-236
 
   -         `Generalized Derivatives in Nonsmooth Analysis: Connections and Computability`,
-            Mario Michael Krell (2009),
-            diploma thesis, Humboldt University of Berlin, Berlin
+            MM Krell (2009),
+            diploma thesis, Humboldt University of Berlin, Berlin, 1-91
 
 |vspace| |br|
 
@@ -119,23 +113,30 @@ Time  Degree                               Institute                            
 
 **AWARDS AND GRANTS**
 
+:2017: DAAD research scholarship for a project at UC Berkeley
+:2016: YERUN scholarship for 
+       `Big Data and Analytics <https://www.essex.ac.uk/iads/events/summer-school.aspx>`_ 
+       Summer School at the University of Essex
+:2015: Scholarship of University of Bremen for 
+       `29th Machine Learning Summer School, Kyoto <http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php>`_
 :2005-2009: Scholarship of 
             `Hans-Böckler Stiftung <http://www.boeckler.de/36912.htm>`_ 
             (Hans Böckler Foundation)
-:2015: Scholarship of University of Bremen for 
-       `29th Machine Learning Summer School, 2015, Kyoto <http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php>`_
-:2016: YERUN scholarship for Essex Big Data and Analytics Summer School
 
 |np| |br|
 
 **WORK EXPERIENCE**
 
-:since 05/15: *Sr. Scientist* at the 
+:since 02/17: *Postdoctoral Research Scholar* at UC Berkeley, Head: Gerald Friedland
+
+              - working on the YFCC100m multimedia dataset
+
+:05/15-01/17:  *Sr. Scientist* at the 
              `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
              University of Bremen, Head: Frank Kirchner
 
              - organizer of the machine learning and optimization workgroup
-             - co-organizer of the signal processing workgroup
+             - organizer of the signal processing workgroup
              - work in different projects like 
                `RECUPERA-Reha 
                <http://robotik.dfki-bremen.de/en/research/projects/recupera-reha.html>`_,
@@ -149,15 +150,18 @@ Time  Degree                               Institute                            
                (health devices, cars, airplanes, wearables, telecommunication, art,
                employer's liability insurance association)
              - project acquisition 
-               (contribution to more than 10 project proposals)
+               (contribution to more than 10 project proposals,
+               successful H2020 proposal for the ESA data fusion project: InFuse)
              - counseling of students and employees in the context of 
                machine learning or `pySPACE <http://pyspace.github.io/pyspace/>`_
-             - improved algorithms to better operate when few data 
+             - improved (online) algorithms to better operate when few data 
                or few resources are available
-             - software development (lead developer of `pySPACE <http://pyspace.github.io/pyspace/>`_)
+             - software development (lead developer of 
+               `pySPACE <http://pyspace.github.io/pyspace/>`_)
              - master thesis supervision (`data selection strategies for SVMs 
                <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
-               automatic processing chain optimization with `pySPACE <http://pyspace.github.io/pyspace/>`_)
+               `automatic processing chain optimization
+               <https://bayesopt.github.io/papers/2016/Hansing.pdf>`_)
 
 :07/10-04/15:  *Scientist* at the 
              `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
@@ -211,7 +215,106 @@ Time  Degree                               Institute                            
 
 |np| |br|
 
-**RESEARCH OBJECTIVES**
+**UNIVERSITY TEACHING**
+
+======== ================ ======================================= ==============
+Semester Type             Title                                   Organizer
+======== ================ ======================================= ==============
+WS2016   seminar          decision models in natural sciences     HG Döbereiner
+WS2016   complete lecture machine learning for autonomous robots  Frank Kirchner
+SS2016   lecture+tutorial reinforcement learning                  Frank Kirchner
+WS2015   complete lecture machine learning for autonomous robots  Frank Kirchner
+SS2015   lecture          reinforcement learning                  Frank Kirchner
+SS2015   corrected exams  fundamentals in computer science 2      Frank Kirchner
+WS2014   coordination     behaviour based robotics                Frank Kirchner
+WS2014   lecture+coord.   machine learning for autonomous robots  Frank Kirchner
+WS2013   lecture+tutorial machine learning for autonomous robots  Frank Kirchner
+SS2012   tutorial         analysis 2 (mathematics)                Bernd Stratmann
+WS2011   tutorial         analysis 1 (mathematics)                Bernd Stratmann
+SS2010   tutorial         mathematics 2 (computer science)        Ronald Stöver
+WS2009   tutorial         mathematics 1 (computer science)        Ronald Stöver
+before   exercise sheets  corrections for mathematics lectures    Various
+======== ================ ======================================= ==============
+
+|vspace| |br|
+
+**MAJOR PUBLICATIONS**
+
+  - `Classifier Transfer with Data Selection Strategies for Online Support Vector Machine Classification with Class Imbalance`,
+    *MM Krell*, N Wilshusen, A Seeland, SK Kim (2016),
+    Journal of Neural Engineering, IOP Publishing.
+
+  - `Generalizing, Decoding, and Optimizing Support Vector Machine Classification
+    <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
+    *MM Krell* (2015), PhD Thesis, University of Bremen, Bremen,
+    1-236
+
+  - `Backtransformation: A new representation of data processing chains with a scalar decision function
+    <http://dx.doi.org/10.1007/s11634-015-0229-3>`_,
+    *MM Krell*, S Straube (2015),
+    Advances in Data Analysis and Classification: 1-25,
+    doi:10.1007/s11634-015-0229-3
+
+  - `How to evaluate an agent's behaviour to infrequent events? — 
+    Reliable performance estimation insensitive to class distribution
+    <http://dx.doi.org/10.3389/fncom.2014.00043>`_,
+    S Straube, *MM Krell* (2014),
+    In Frontiers in Computational Neuroscience 8(43): 1-6,
+    doi:10.3389/fncom.2014.00043
+
+  - `pySPACE — a signal processing and classification environment in Python
+    <http://dx.doi.org/10.3389/fninf.2013.00040>`_,
+    *MM Krell*, S Straube, A Seeland, H Wöhrle, 
+    Johannes Teiwes, JH Metzen, EA Kirchner, 
+    F Kirchner (2013),
+    In Frontiers in Neuroinformatics 7(40): 1-11, doi:10.3389/fninf.2013.00040
+
+  - `Comparison of Sensor Selection Mechanisms for an 
+    ERP-Based Brain-Computer Interface
+    <http://dx.plos.org/10.1371/journal.pone.0067543>`_,
+    David Feess, *MM Krell*\*, JH Metzen (2013),
+    In PLoS ONE 8(7): e67543 1-9, doi:10.1371/journal.pone.0067543
+
+|vspace| |br|
+
+**TALKS AND WORKSHOPS**
+
+  - pySPACE workshop (2015), deep learning workshop (2016),
+    machine learning workshop (2016), DFKI RIC, Bremen, Germany
+  
+  - Representation of the DFKI RIC at the **CeBIT**
+    international computer expo (2015), Hannover, Germany
+
+  - `Introduction to the Signal Processing and Classification Environment
+    pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
+    PyData Berlin 2014, Berlin, Germany
+
+  - `Our Tools for Large Scale or Embedded Processing of Physiological Data`
+    (2014), Passive BCI Community Meeting, Delmenhorst, Germany
+
+  - `Introduction to pySPACE workflows` (2013),
+    **NIPS** workshop *Machine Learning Open Source Software: 
+    Towards Open Workflows*, Lake Tahoe, Nevada, USA
+
+|np| |br|
+
+**RESEARCH TOPICS**
+
+:Framework - pySPACE:
+  `pySPACE <http://pyspace.github.io/pyspace/>`_ is the abbreviation for
+  signal processing and classification environment written in Python which
+  is supporting parallelization and intuitive configuration (based on YAML).
+
+  I am not the original developer of pySPACE but I am the lead developer
+  and I contributed the major parts to it
+  like documentation, usability, numerous algorithms, tuned performance,
+  classification, regression, evaluation metrics, parameter optimization, etc.
+  Furthermore, I was responsible for making this software open source.
+
+  Currently, I am working on optimizing processing chains.
+  One of my approaches uses deep learning on EEG data and the other is to
+  integrate domain/expert knowledge and the optimization library
+  Hyperopt into pySPACE.
 
 :Intelligent Man-Machine Interaction (IMMI):
   I contributed to the proposal of 
@@ -255,22 +358,6 @@ Time  Degree                               Institute                            
   Currently, I am working on improving the interpretability with the help
   of source localization methods.
 
-:Framework - pySPACE:
-  `pySPACE <http://pyspace.github.io/pyspace/>`_ is the abbreviation for
-  signal processing and classification environment written in Python which
-  is supporting parallelization and intuitive configuration (based on YAML).
-
-  I am not the original developer of pySPACE but I am the lead developer
-  and I contributed the major parts to it
-  like documentation, usability, numerous algorithms, tuned performance,
-  classification, regression, evaluation metrics, parameter optimization, etc.
-  Furthermore, I was responsible for making this software open source.
-
-  Currently, I am preparing two papers for optimizing processing chains.
-  One approach uses deep learning on EEG data and the other is based
-  on integrating domain/expert knowledge and the optimization library
-  Hyperopt into pySPACE.
-
 :RECUPERA-Reha:
   I have been mainly supporting this project since 05/2015.
   Its objective is to create a full-body exoskeleton for the support in
@@ -293,100 +380,14 @@ Time  Degree                               Institute                            
 
 |np| |br|
 
-**UNIVERSITY TEACHING**
-
-======== ================ ============================================= ==============
-Semester Type             Title                                         Organizer
-======== ================ ============================================= ==============
-SS2016   lecture+tutorial reinforcement learning                        Frank Kirchner
-WS2015   complete lecture learning algorithms for autonomous robots     Frank Kirchner
-SS2015   lecture          reinforcement learning                        Frank Kirchner
-SS2015   corrected exams  fundamentals in computer science 2            Frank Kirchner
-WS2014   coordination     behaviour based robotics                      Frank Kirchner
-WS2014   lecture+coord.   learning algorithms for autonomous robots     Frank Kirchner
-WS2013   lecture+tutorial learning algorithms for autonomous robots     Frank Kirchner
-SS2012   tutorial         analysis 2 (mathematics)                      Bernd Stratmann
-WS2011   tutorial         analysis 1 (mathematics)                      Bernd Stratmann
-SS2010   tutorial         mathematics 2 (computer science)              Ronald Stöver
-WS2009   tutorial         mathematics 1 (computer science)              Ronald Stöver
-before   exercise sheets  corrections in different mathematics lectures Various
-======== ================ ============================================= ==============
-
-|vspace| |br|
-
-**MAJOR PUBLICATIONS**
-
-  - `Generalizing, Decoding, and Optimizing Support Vector Machine Classification
-    <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
-    Mario Michael Krell (2015), PhD Thesis, University of Bremen, Bremen
-
-  - `Backtransformation: A new representation of data processing chains with a scalar decision function
-    <http://dx.doi.org/10.1007/s11634-015-0229-3>`_,
-    Mario Michael Krell, Sirko Straube (2015),
-    Advances in Data Analysis and Classification: 1-25,
-    doi:10.1007/s11634-015-0229-3
-
-  - `New one-class classifiers based on the origin separation approach 
-    <http://dx.doi.org/10.1016/j.patrec.2014.11.008>`_,
-    Mario Michael Krell, Hendrik Wöhrle (2015),
-    In Pattern Recognition Letters 53: 93-99, doi:10.1016/j.patrec.2014.11.008
-
-  - `How to evaluate an agent's behaviour to infrequent events? — 
-    Reliable performance estimation insensitive to class distribution
-    <http://dx.doi.org/10.3389/fncom.2014.00043>`_,
-    Sirko Straube, Mario Michael Krell (2014),
-    In Frontiers in Computational Neuroscience 8(43),
-    doi:10.3389/fncom.2014.00043
-
-  - `pySPACE — a signal processing and classification environment in Python
-    <http://dx.doi.org/10.3389/fninf.2013.00040>`_,
-    Mario Michael Krell, Sirko Straube, Anett Seeland, Hendrik Wöhrle, 
-    Johannes Teiwes, Jan Hendrik Metzen, Elsa Andrea Kirchner, 
-    Frank Kirchner (2013),
-    In Frontiers in Neuroinformatics 7(40): 1-11, doi:10.3389/fninf.2013.00040
-
-  - `Balanced Relative Margin Machine - 
-    The Missing Piece Between FDA and SVM Classification
-    <http://dx.doi.org/10.1016/j.patrec.2013.09.018>`_,
-    Mario Michael Krell, David Feess, Sirko Straube (2014),
-    In Pattern Recognition Letters 41: 43-52, doi:10.1016/j.patrec.2013.09.018
-
-  - `Comparison of Sensor Selection Mechanisms for an 
-    ERP-Based Brain-Computer Interface
-    <http://dx.plos.org/10.1371/journal.pone.0067543>`_,
-    David Feess, Mario Michael Krell\*, Jan Hendrik Metzen (2013),
-    In PLoS ONE 8(7): e67543, doi:10.1371/journal.pone.0067543
-
-|vspace| |br|
-
-**TALKS AND WORKSHOPS**
-
-  - pySPACE workshop (2015), DFKI RIC, Bremen, Germany
-  
-  - Representation of the DFKI RIC at the **CeBIT**
-    international computer expo (2015), Hannover, Germany
-
-  - `Introduction to the Signal Processing and Classification Environment
-    pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
-    PyData Berlin 2014, Berlin, Germany
-
-  - `Our Tools for Large Scale other Embedded Processing of Physiological Data`
-    (2014), Passive BCI Community Meeting, Delmenhorst, Germany
-
-  - `Introduction to pySPACE workflows` (2013),
-    **NIPS** workshop *Machine Learning Open Source Software: 
-    Towards Open Workflows*, Lake Tahoe, Nevada, USA
-
-|np| |br|
-
 **REVIEWING**
 
   - `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_
     and `Robotics Innovation Center <http://robotik.dfki-bremen.de/en/startpage.html>`_
-    for internal quality control before final submission,
+    for internal quality control before first submission,
   - Pattern Recognition,
-  - Expert Systems with Applications,
-  - Information Sciences,
+    Expert Systems with Applications,
+    Information Sciences,
   - Chemometrics and Intelligent Laboratory Systems,
     Biomedical Signal Processing and Control, 
     International Journal of Machine Learning and Cybernetics,
@@ -397,80 +398,100 @@ before   exercise sheets  corrections in different mathematics lectures Various
 
 **MINOR PUBLICATIONS**
 
+  - `Recupera-Reha: Exoskeleton technology with integrated biosignal analysis for sensorimotor rehabilitation`,
+    EA Kirchner et al. (2016), At 2nd trans-disciplinary conference 
+    "Technical support systems that people really want": 504-517, Elsevier
+
+  - `hyperSPACE: Automated Optimization of Complex Processing Pipelines for pySPACE
+    <https://bayesopt.github.io/papers/2016/Hansing.pdf>`_,
+    T Hansing, *MM Krell*, F Kirchner (2016), NIPS workshop: BayesOPT2016 
+
+  - `New one-class classifiers based on the origin separation approach 
+    <http://dx.doi.org/10.1016/j.patrec.2014.11.008>`_,
+    *MM Krell*, H Wöhrle (2015),
+    In Pattern Recognition Letters 53: 93-99, doi:10.1016/j.patrec.2014.11.008
+
   - `Comparison of Data Selection Strategies for Online Support Vector Machine Classification
     <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_,
-    Mario Michael Krell, Nils Wilshusen, Andrei Cristian Ignat, Su Kyoung Kim (2015),
+    *MM Krell*, N Wilshusen, AC Ignat, SK Kim (2015),
     In International Congress on Neurotechnology, Electronics and Informatics:
     59-67, ScitePress, doi:10.5220/0005650700590067
 
   - `raxDAWN: Circumventing Overfitting of the Adaptive xDAWN
     <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=raxDAWN.pdf&file_id=uploads_2594>`_,
-    Mario Michael Krell, Anett Seeland, Hendrik Wöhrle (2015),
+    *MM Krell*, A Seeland, H Wöhrle (2015),
     In International Congress on Neurotechnology, Electronics and Informatics:
     68-75, ScitePress, doi:10.5220/0005657500680075
 
   - `Accounting for Task-Difficulty 
     in Active Multi-Task Robot Control Learning
     <http://dx.doi.org/10.1007/s13218-015-0363-2>`_,
-    Alexander Fabisch, Jan Hendrik Metzen, Mario Michael Krell, 
-    Frank Kirchner (2015),
+    A Fabisch, JH Metzen, *MM Krell*, 
+    F Kirchner (2015),
     In KI - Künstliche Intelligenz, 1-9,
     doi:10.1007/s13218-015-0363-2
 
   - `An Adaptive Spatial Filter for User-Independent 
     Single Trial Detection of Event-Related Potentials
     <http://dx.doi.org/10.1109/TBME.2015.2402252>`_,
-    Hendrik Wöhrle, Mario Michael Krell, Sirko Straube, 
-    Su Kyoung Kim, Elsa Andrea Kirchner, Frank Kirchner (2015),
-    In IEEE Transactions on Biomedical Engineering, 
+    H Wöhrle, *MM Krell*, S Straube, 
+    SK Kim, EA Kirchner, F Kirchner (2015),
+    In IEEE Transactions on Biomedical Engineering 62(7): 1696-1705,
     doi:10.1109/TBME.2015.2402252
 
   - `Concept of a Data Thread Based Parking Space Occupancy Prediction 
     in a Berlin Pilot Region 
     <http://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10130>`_,
-    Tim Tiedemann, Thomas Vögele, Mario Michael Krell, Jan Hendrik Metzen,
-    Frank Kirchner (2015),
+    T Tiedemann, T Vögele, *MM Krell*, JH Metzen,
+    F Kirchner (2015),
     In Papers from the 2015 AAAI Workshop. 
-    Workshop on AI for Transportation (WAIT-2015), Austin, USA, AAAI Press
+    Workshop on AI for Transportation (WAIT-2015), Austin, USA, AAAI Press,
+    58-63
+
+  - `Balanced Relative Margin Machine - 
+    The Missing Piece Between FDA and SVM Classification
+    <http://dx.doi.org/10.1016/j.patrec.2013.09.018>`_,
+    *MM Krell*, D Feess, S Straube (2014),
+    In Pattern Recognition Letters 41: 43-52, doi:10.1016/j.patrec.2013.09.018
 
   - `Generalizing, Optimizing, and Decoding 
     Support Vector Machine Classification 
     <http://robotik.dfki-bremen.de/de/forschung/publikationen/7471.html>`_,
-    Mario Michael Krell, Sirko Straube, Hendrik Wöhrle, Frank Kirchner (2014),
+    *MM Krell*, S Straube, H Wöhrle, F Kirchner (2014),
     In Proceedings of the ECML/PKDD-2014, Nancy
 
   - `Reconfigurable Dataflow Hardware Accelerators 
     for Machine Learning and Robotics
     <http://robotik.dfki-bremen.de/de/forschung/publikationen/7446.html>`_,
-    Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Anett Seeland, 
-    Elsa Andrea Kirchner, Frank Kirchner (2014),
+    H Wöhrle, J Teiwes, *MM Krell*, A Seeland, 
+    EA Kirchner, F Kirchner (2014),
     In Proceedings of the ECML/PKDD-2014, Nancy
 
   - `On the Applicability of Brain Reading for Self-Controlled, 
     Predictive Human-Machine Interfaces in Robotics 
     <http://dx.plos.org/10.1371/journal.pone.0081732>`_,
-    Elsa Andrea Kirchner, Su Kyoung Kim, Sirko Straube, Anett Seeland, 
-    Hendrik Wöhrle, Mario Michael Krell, Marc Tabie, Manfred Fahle (2013),
-    In PLoS ONE 8(12): e81732, doi:10.1371/journal.pone.0081732
+    EA Kirchner, SK Kim, S Straube, A Seeland, 
+    H Wöhrle, *MM Krell*, M Tabie, M Fahle (2013),
+    In PLoS ONE 8(12): e817321-19, doi:10.1371/journal.pone.0081732
 
   - `Memory and Processing Efficient Formula for Moving Variance Calculation 
     in EEG and EMG Signal Processing 
     <http://www.dfki.de/web/forschung/publikationen/renameFileForDownload?filename=131008_Memory%20and%20Processing%20Efficient%20Formula%20for%20Moving%20Variance%20Calculation%20in%20EEG%20and%20EMG%20Signal%20Processing_NEUROTECHNIX_Krell.pdf&file_id=uploads_2062>`_,
-    Mario Michael Krell, Marc Tabie, Hendrik Wöhrle, 
-    Elsa Andrea Kirchner (2013),
+    *MM Krell*, M Tabie, H Wöhrle, 
+    EA Kirchner (2013),
     In International Congress on Neurotechnology, Electronics and Informatics:
     41-45, ScitePress, doi:10.5220/0004633800410045
 
   - `A Dataflow-Based Mobile Brain Reading System on Chip with Supervised
     Online Calibration <http://dx.doi.org/10.5220/0004637800460053>`_,
-    Hendrik Wöhrle, Johannes Teiwes, Mario Michael Krell, Elsa Andrea Kirchner,
-    Frank Kirchner (2013),
+    H Wöhrle, J Teiwes, *MM Krell*, EA Kirchner,
+    F Kirchner (2013),
     In International Congress on Neurotechnology, Electronics and Informatics:
     46-53, ScitePress, doi:10.5220/0004637800460053
 
   - `Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution`,
-    Sirko Straube, Jan Hendrik Metzen, Anett Seeland, Mario Michael Krell, 
-    Elsa Andrea Kirchner (2011),
+    S Straube, JH Metzen, A Seeland, *MM Krell*, 
+    EA Kirchner (2011),
     Proceedings of the 41st Meeting of the Society for Neuroscience 2011,
     Washington, DC, USA
 
