@@ -8,14 +8,9 @@
 
 .. |np| raw:: latex
 
-   \thispagestyle{empty}
    \newpage
-   \thispagestyle{empty}
 
 
-.. |pe| raw:: latex
-
-   \thispagestyle{empty}
 
 CURRICULUM VITAE
 ++++++++++++++++
@@ -23,7 +18,7 @@ CURRICULUM VITAE
 Dr. MARIO MICHAEL KRELL
 =======================
 
-|pe|
+
 
 .. .. image:: me_small.png
     :width: 3.5cm
