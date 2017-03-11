@@ -8,9 +8,14 @@
 
 .. |np| raw:: latex
 
+   \thispagestyle{empty}
    \newpage
+   \thispagestyle{empty}
 
 
+.. |pe| raw:: latex
+
+   \thispagestyle{empty}
 
 CURRICULUM VITAE
 ++++++++++++++++
@@ -18,7 +23,7 @@ CURRICULUM VITAE
 Dr. MARIO MICHAEL KRELL
 =======================
 
-
+|pe|
 
 .. .. image:: me_small.png
     :width: 3.5cm
@@ -126,13 +131,20 @@ Time  Degree                               Institute                            
 
 **WORK EXPERIENCE**
 
-:since 02/17: *Postdoctoral Research Scholar* at `ICSI, Berkeley <http://icsi.berkeley.edu/>`_, Supervisor: Gerald Friedland
+:since 02/17: *Postdoctoral Research Scholar* at 
+              `ICSI (International Computer Science Institute),
+              University of California Berkeley <http://icsi.berkeley.edu/>`_, 
+              Supervisor: Gerald Friedland
 
-              - working on the YFCC100m multimedia dataset
+              - implementing tools for performing studies in robotics,
+                environmental science, social sciences, biology, etc.
+                using the YFCC100m multimedia dataset
+              - leading a team of 5 undergraduate students for
+                `URAP <http://urapprojects.berkeley.edu/projects/detail.php?id_list=Ele0800>`_
 
 :05/15-01/17:  *Sr. Scientist* at the 
              `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
-             University of Bremen, Head: Frank Kirchner
+             University of Bremen, Head: F Kirchner
 
              - organizer of the machine learning and optimization workgroup
              - organizer of the signal processing workgroup
@@ -164,7 +176,7 @@ Time  Degree                               Institute                            
 
 :07/10-04/15:  *Scientist* at the 
              `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
-             University of Bremen, Head: Frank Kirchner
+             University of Bremen, Head: F Kirchner
 
              - successfully finished the project `IMMI
                <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
@@ -194,11 +206,11 @@ Time  Degree                               Institute                            
 :05/09-06/10:  *Jr. Scientist* at the DFKI GmbH 
              (German Research Center for Artificial Intelligence), `Robotics Innovation Center 
              <http://robotik.dfki-bremen.de/en/startpage.html>`_, Bremen, 
-             Head: Frank Kirchner
+             Head: F Kirchner
 
              - successfully finished the project `VI-Bot
                <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
-               (Virtual Immersion for holistic feedback control of semi-autonomous robots)
+               (exoskeleton operator surveillance)
              - contribution to the project proposal of the follow up project `IMMI
                <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
                (e.g., literature research on brain-computer interfaces)
@@ -206,11 +218,15 @@ Time  Degree                               Institute                            
                further algorithms added to
                `pySPACE <http://pyspace.github.io/pyspace/>`_
              - faster processing by algorithm tuning in `pySPACE <http://pyspace.github.io/pyspace/>`_
-             - mathematical model for space simulation with a
-               six-axis industrial robot and a cable-guided 3D-movement system
+             - mathematical model for space simulation 
                in the project
                `Inveritas
                <http://robotik.dfki-bremen.de/en/research/projects/inveritas.html>`_
+
+..                with a six-axis industrial robot 
+               and a cable-guided 3D-movement system
+
+..            (Virtual Immersion for holistic feedback control of semi-autonomous robots)
 
 |np| |br|
 
@@ -219,19 +235,20 @@ Time  Degree                               Institute                            
 ======== ================ ======================================= ==============
 Semester Type             Title                                   Organizer
 ======== ================ ======================================= ==============
+SP2017   seminar          Undergrad. Research Apprentice Program  G Friedland
 WS2016   seminar          decision models in natural sciences     HG Döbereiner
-WS2016   complete lecture machine learning for autonomous robots  Frank Kirchner
-SS2016   lecture+tutorial reinforcement learning                  Frank Kirchner
-WS2015   complete lecture machine learning for autonomous robots  Frank Kirchner
-SS2015   lecture          reinforcement learning                  Frank Kirchner
-SS2015   corrected exams  fundamentals in computer science 2      Frank Kirchner
-WS2014   coordination     behaviour based robotics                Frank Kirchner
-WS2014   lecture+coord.   machine learning for autonomous robots  Frank Kirchner
-WS2013   lecture+tutorial machine learning for autonomous robots  Frank Kirchner
-SS2012   tutorial         analysis 2 (mathematics)                Bernd Stratmann
-WS2011   tutorial         analysis 1 (mathematics)                Bernd Stratmann
-SS2010   tutorial         mathematics 2 (computer science)        Ronald Stöver
-WS2009   tutorial         mathematics 1 (computer science)        Ronald Stöver
+WS2016   complete lecture machine learning for autonomous robots  F Kirchner
+SS2016   lecture+tutorial reinforcement learning                  F Kirchner
+WS2015   complete lecture machine learning for autonomous robots  F Kirchner
+SS2015   lecture          reinforcement learning                  F Kirchner
+SS2015   corrected exams  fundamentals in computer science 2      F Kirchner
+WS2014   coordination     behaviour based robotics                F Kirchner
+WS2014   lecture+coord.   machine learning for autonomous robots  F Kirchner
+WS2013   lecture+tutorial machine learning for autonomous robots  F Kirchner
+SS2012   tutorial         analysis 2 (mathematics)                B Stratmann
+WS2011   tutorial         analysis 1 (mathematics)                B Stratmann
+SS2010   tutorial         mathematics 2 (computer science)        R Stöver
+WS2009   tutorial         mathematics 1 (computer science)        R Stöver
 before   exercise sheets  corrections for mathematics lectures    Various
 ======== ================ ======================================= ==============
 
@@ -239,9 +256,11 @@ before   exercise sheets  corrections for mathematics lectures    Various
 
 **MAJOR PUBLICATIONS**
 
-  - `Classifier Transfer with Data Selection Strategies for Online Support Vector Machine Classification with Class Imbalance`,
-    *MM Krell*, N Wilshusen, A Seeland, SK Kim (2016),
-    Journal of Neural Engineering, IOP Publishing.
+  - `Classifier Transfer with Data Selection Strategies for Online Support Vector Machine Classification with Class Imbalance
+    <http://dx.doi.org/10.1088/1741-2552/aa5166>`_,
+    *MM Krell*, N Wilshusen, A Seeland, SK Kim (2017),
+    Journal of Neural Engineering: 14(2), IOP Publishing,
+    doi: 10.1088/1741-2552/aa5166.
 
   - `Generalizing, Decoding, and Optimizing Support Vector Machine Classification
     <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
@@ -493,8 +512,3 @@ before   exercise sheets  corrections for mathematics lectures    Various
     EA Kirchner (2011),
     Proceedings of the 41st Meeting of the Society for Neuroscience 2011,
     Washington, DC, USA
-
-.. Bremen, 06.03.2014
-
-   .. image:: Unterschrift.jpg
-        :width: 3cm
