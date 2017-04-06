@@ -65,11 +65,12 @@ Time  Degree                               Institute                            
 
   -         `Generalizing, Decoding, and Optimizing 
             Support Vector Machine Classification
-            <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
+            <https://raw.githubusercontent.com/MMKrell/CV/gh-pages/paper/2015_phd_thesis.pdf>`_, 
             MM Krell (2015),
             PhD Thesis, University of Bremen, Bremen, 1-236
 
-  -         `Generalized Derivatives in Nonsmooth Analysis: Connections and Computability`,
+  -         `Generalized Derivatives in Nonsmooth Analysis: Connections and Computability
+            <https://raw.githubusercontent.com/MMKrell/CV/gh-pages/paper/2009_diploma_thesis.pdf>`_,
             MM Krell (2009),
             diploma thesis, Humboldt University of Berlin, Berlin, 1-91
 
@@ -136,11 +137,12 @@ Time  Degree                               Institute                            
               University of California Berkeley <http://icsi.berkeley.edu/>`_, 
               Supervisor: Gerald Friedland
 
-              - implementing tools for performing studies in robotics,
-                environmental science, social sciences, biology, etc.
-                using the YFCC100m multimedia dataset
+              - implementing tools for performing big data studies in
+                numerous different disciplines
+                using the `multimedia commons <http://mmcommons.org/>`_
               - leading a team of 5 undergraduate students for
                 `URAP <http://urapprojects.berkeley.edu/projects/detail.php?id_list=Ele0800>`_
+              - machine learning on EEG and robotics data
 
 :05/15-01/17:  *Sr. Scientist* at the 
              `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
@@ -210,8 +212,8 @@ Time  Degree                               Institute                            
 
              - successfully finished the project `VI-Bot
                <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
-               (exoskeleton operator surveillance)
-             - contribution to the project proposal of the follow up project `IMMI
+               (exoskeleton operator surveillance) and
+               contributed to the project proposal of the follow up project `IMMI
                <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
                (e.g., literature research on brain-computer interfaces)
              - classification, performance evaluation, and
@@ -318,6 +320,11 @@ before   exercise sheets  corrections for mathematics lectures    Various
 
 **RESEARCH TOPICS**
 
+:Multimedia Big Data Studies:
+  My objective is to implement a framework that enables researchers
+  of many research field to extract useful data from user-generated content
+  to perform field studies.
+
 :Framework - pySPACE:
   `pySPACE <http://pyspace.github.io/pyspace/>`_ is the abbreviation for
   signal processing and classification environment written in Python which
@@ -333,23 +340,6 @@ before   exercise sheets  corrections for mathematics lectures    Various
   One of my approaches uses deep learning on EEG data and the other is to
   integrate domain/expert knowledge and the optimization library
   Hyperopt into pySPACE.
-
-:Intelligent Man-Machine Interaction (IMMI):
-  I contributed to the proposal of 
-  `this project <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
-  and I have worked in IMMI from 05/10 to 04/15.
-  My tasks involved the optimization, descriptive analysis, 
-  and online adaptation of data processing chains 
-  for electroencephalographic (EEG) data.
-  One task to detect the perception of rare infrequent important events
-  in contrast to the perception of more frequent but irrelevant in the
-  very noisy data.
-  The other task was to predict upcoming movements by detecting the
-  movement preparation in the EEG.
-  Most parts of my thesis are results from my work in this project
-  and they are related to support vector machines, 
-  decoding of EEG data processing chains, and the processing optimization
-  with the framework pySPACE.
 
 :Support Vector Machines (SVMs):
   Due to their generalization capability on few data with high dimensions,
@@ -376,15 +366,23 @@ before   exercise sheets  corrections for mathematics lectures    Various
   Currently, I am working on improving the interpretability with the help
   of source localization methods.
 
-:RECUPERA-Reha:
-  I have been mainly supporting this project since 05/2015.
-  Its objective is to create a full-body exoskeleton for the support in
-  stroke rehabilitation. 
-  EEG data is used to improve the exoskeleton control and to get insights
-  into the rehabilitation process of the user.
-  Additionally to the processing chain decoding, 
-  I am contributing with approaches
-  that tackle the major problem of too few training data.
+:Intelligent Man-Machine Interaction (IMMI):
+  I contributed to the proposal of 
+  `this project <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
+  and I have worked in IMMI from 05/10 to 04/15
+  and in the follow-up project, RECUPERA-Reha.
+  My tasks involved the optimization, descriptive analysis, 
+  and online adaptation of data processing chains 
+  for electroencephalographic (EEG) data.
+  One task was to detect the perception of rare infrequent important events
+  in contrast to the perception of more frequent but irrelevant in the
+  very noisy data.
+  The other task was to predict upcoming movements by detecting the
+  movement preparation in the EEG.
+  Most parts of my thesis are results from my work in this project
+  and they are related to support vector machines, 
+  decoding of EEG data processing chains, and the processing optimization
+  with the framework pySPACE.
 
 :Robotics:
   Even though my main responsibility has always been on EEG data processing,
@@ -410,15 +408,16 @@ before   exercise sheets  corrections for mathematics lectures    Various
     Biomedical Signal Processing and Control, 
     International Journal of Machine Learning and Cybernetics,
     Neural Computing and Applications, and
-    Recent Patents on Electrical & Electronic Engineering
+    Recent Patents on Electrical & Electronic Engineering,
+    Neuroadaptive Technology Conference
 
 |vspace| |br|
 
 **MINOR PUBLICATIONS**
 
-  - `Recupera-Reha: Exoskeleton technology with integrated biosignal analysis for sensorimotor rehabilitation`,
+  - `Recupera-Reha: Exoskeleton technology with integrated biosignal analysis for sensorimotor rehabilitation <https://www.researchgate.net/profile/R_Weidner/publication/311669596_Technische_Unterstutzungssysteme_die_die_Menschen_wirklich_wollen_Band_zur_zweiten_transdisziplinaren_Konferenz_2016/links/5853896e08ae0c0f322284e1/Technische-Unterstuetzungssysteme-die-die-Menschen-wirklich-wollen-Band-zur-zweiten-transdisziplinaeren-Konferenz-2016.pdf#page=547>`_,
     EA Kirchner et al. (2016), At 2nd trans-disciplinary conference 
-    "Technical support systems that people really want": 504-517, Elsevier
+    "Technical support systems that people really want": 535-548, Elsevier
 
   - `hyperSPACE: Automated Optimization of Complex Processing Pipelines for pySPACE
     <https://bayesopt.github.io/papers/2016/Hansing.pdf>`_,
@@ -507,7 +506,8 @@ before   exercise sheets  corrections for mathematics lectures    Various
     In International Congress on Neurotechnology, Electronics and Informatics:
     46-53, ScitePress, doi:10.5220/0004637800460053
 
-  - `Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution`,
+  - `Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution
+    <https://raw.githubusercontent.com/MMKrell/CV/gh-pages/paper/2011_balanced_accuracy.pdf>`_,
     S Straube, JH Metzen, A Seeland, *MM Krell*, 
     EA Kirchner (2011),
     Proceedings of the 41st Meeting of the Society for Neuroscience 2011,
