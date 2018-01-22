@@ -182,16 +182,17 @@ latex_elements = {
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
-'preamble': "\\renewcommand{\chapter}{\section}\n\\renewcommand{\maketitle}{}\n\\renewcommand{\\tableofcontents}{}\n\\renewcommand{\phantomsection}{}\n\\setcounter{secnumdepth}{0}",
+'preamble': "\\usepackage{pdfpages}\n\\renewcommand{\chapter}{\section}\n\\renewcommand{\maketitle}{}\n\\renewcommand{\\tableofcontents}{}\n\\renewcommand{\phantomsection}{}\n\\setcounter{secnumdepth}{0}",
 }
 
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'CV.tex', u'Curriculum Vitae',
+  ('index', 'cv.tex', u'Curriculum Vitae',
    u'Dr. Mario Michael Krell', 'manual'),
 ]
+
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.

@@ -9,6 +9,7 @@
 :2009-2014: choir of the university of Bremen (exchange with China, Ukraine, Turkey)
 
 :2014-2016: chamber choir at the University of Arts Bremen
+:2017: University Chorus UC Berkeley
 
 Repertoire
 ----------
