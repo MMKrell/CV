@@ -33,20 +33,22 @@ Dr. MARIO MICHAEL KRELL
 
 **SUMMARY**
 
-  - Principal Machine Learning Engineer with 10-year background in 
+  - Machine Learning Researcher with 10-year background in 
     machine learning
   - Strong problem solving, mathematical analysis, 
     and interdisciplinary teamwork skills
-  - Interested in leading
-    applied research
-    for interesting applications that help humanity
+  - Interested in applied research in the Bay Area
+    that helps humanity
 
 |br|
 
 **PERSONAL INFORMATION**
 
-:contact: krell at uni-bremen dot de, **hobbies** choir singing, ballroom dancing, walking, cycling
-:languages: English (fluent), German (mother tongue), French (basic)
+============== ============================= =============== ====================================================
+  **email**     krell at uni-bremen dot de    **hobbies**     choir singing, ballroom dancing, hiking, Zumba
+-------------- ----------------------------- --------------- ----------------------------------------------------
+  **address**   Redwood City, CA             **languages**   English (fluent), German (fluent), French (basic)
+============== ============================= =============== ====================================================
 
 |br|
 
@@ -55,36 +57,14 @@ Dr. MARIO MICHAEL KRELL
 ===== ==================================== ==================================== ============== =====
 Time  Degree                               Institute                            Advisor        GPA
 ----- ------------------------------------ ------------------------------------ -------------- -----
-03/15 PhD in machine learning              University of Bremen, Robotics Group Kirchner, F.   4.0
+03/15 PhD in CS (machine learning)         University of Bremen, Robotics Group Kirchner, F.   4.0
 03/09 degree in mathematics ("Diplom")     Humboldt University of Berlin        Kummer, B.     3.9
-07/06 pre-degree in computer science       Humboldt University of Berlin                       3.8
 06/03 university-entrance diploma          C.-F.-Gauß-Gymnasium Frankfurt (O.)                 3.8
 ===== ==================================== ==================================== ============== =====
 
 |br|
 
 **SKILLS**
-
-  - problem solving, machine learning expertise,
-    mathematical analysis, optimization
-
-  - independent research and data analysis, research writing, 
-    teaching, scientific presentation
-
-  - basic knowledge in robotics, man-machine interfaces,
-    electroencephalography, multimedia, cars
-
-  - `Python programming <http://www.python.org/>`_, 
-    `reStructuredText <http://docutils.sourceforge.net/rst.html>`_,
-    `Sphinx <http://sphinx-doc.org/>`_,
-    `YAML <http://yaml.org/>`_,
-    `Git <https://github.com/MMKrell>`_,
-    HPC, deep learning with Keras,
-    scikit-learn
-    (see `pySPACE <http://pyspace.github.io/pyspace/>`_);
-    basic experience with  
-    `Solr, AWS, webpage development <http://search.mmcommons.org>`_,
-    and PySpark on Azure,
 
   - collaboration in multicultural/interdisciplinary teams
     (engineers, computer/neuro-scientists, manager, PO)
@@ -93,19 +73,41 @@ Time  Degree                               Institute                            
     stakeholder interaction, certified scrum master/PO
     
   - project acquisition, patenting, documentation, process definition
+
+  - problem solving, machine learning expertise,
+    mathematical analysis, optimization
+
+  - independent research and data analysis (>35 publications, >250 citations), 
+    teaching, scientific presentation
+
+  - basic knowledge in brain-machine interfaces, robotics,
+    multimedia, cars
+
+  - `Software development in Python <http://www.python.org/>`_: 
+    `NumPy <https://numpy.org/>`_,
+    `Git <https://github.com/MMKrell>`_,
+    `Sphinx <http://sphinx-doc.org/>`_,
+    HPC, deep learning with Keras,
+    scikit-learn
+    (see `pySPACE <http://pyspace.github.io/pyspace/>`_);
+    basic experience with  
+    `Solr, AWS <http://search.mmcommons.org>`_,
+    data analytics with PySpark on Azure and Pandas
+
 |br|
 
 **SHORT WORK SUMMARY**
 
-=================== ==================================== =============================== ====================================
+=================== ==================================== =============================== ============
 Time                Title                                Employer                        Reference
-------------------- ------------------------------------ ------------------------------- ------------------------------------
-since 01/18         Principal Machine Learning Engineer  Mercedes-Benz R&D, USA          R Smiroldo
+------------------- ------------------------------------ ------------------------------- ------------
+since 09/19         AI Applications Specialist           Graphcore                       P Brown
+01/18 - 07/19       Principal Machine Learning Engineer  Mercedes-Benz R&D, USA          H Endt
 02/17 - 12/17       Postdoc                              UC Berkeley, ICSI, USA          G Friedland
-05/15 - 01/17       Postdoc and Senior Scientist         University of Bremen, GER       F&E Kirchner
-07/10 - 04/15       Scientist                            University of Bremen, GER       S Straube
-05/09 - 06/10       Junior Scientist                     DFKI GmbH, Bremen, GER          A Seeland
-=================== ==================================== =============================== ====================================
+05/15 - 01/17       Postdoc and Senior ML Researcher     University of Bremen, GER       F&E Kirchner
+07/10 - 04/15       Machine Learning Researcher          University of Bremen, GER       S Straube
+05/09 - 06/10       Jr. ML Researcher                    DFKI GmbH, Bremen, GER          A Seeland
+=================== ==================================== =============================== ============
 
 |br|
 
@@ -121,8 +123,6 @@ since 01/18         Principal Machine Learning Engineer  Mercedes-Benz R&D, USA 
        Summer School at the University of Essex
 :2015: Scholarship of University of Bremen for 
        `29th Machine Learning Summer School, Kyoto <http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php>`_
-:2010: Contributed to federal government grant (`IMMI
-               <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_), 3 Mio. Euro
 :2005-2009: Scholarship of 
             `Hans-Böckler Stiftung <http://www.boeckler.de/36912.htm>`_ 
             (Hans Böckler Foundation)
@@ -131,22 +131,27 @@ since 01/18         Principal Machine Learning Engineer  Mercedes-Benz R&D, USA 
 
 **WORK EXPERIENCE**
 
-:since 01/18: *Principal Machine Learning Engineer* at 
+:since 09/19: *AI Applications Specialist* at 
+              `Graphcore <https://www.graphcore.ai/>`_
+
+:01/18-07/19: *Principal Machine Learning Engineer* at 
               `Mercedes-Benz Research & Development North America
               <http://mbrdna.com/>`_
               in the Statistics, Optimization, Machine Learning, and
-              Analytics team (SOMA), Head: R Smiroldo
-              
-              - development of algorithms for user action prediction
-                for the headunit in the car
+              Analytics (SOMA) team
+
+              - stakeholder interaction, lead 4 different projects,
+                project acquisition, quality control
+              - booth duty at CES & GTC,
+                10 patent proposals, 2 white papers
               - big car data analytics to understand costumer behaviour and
                 develop new products
-              - patents (10 proposals), quality control, booth duty at CES
+              - development of algorithms for user action prediction
+                for the headunit (display) in the car
 
-:02/17-12/17: *Postdoctoral Research Scholar* at 
+:02/17-12/17: *Postdoctoral Research Scholar in Machine Learning* at 
               `ICSI (International Computer Science Institute),
-              University of California Berkeley <http://icsi.berkeley.edu/>`_, 
-              Supervisor: Gerald Friedland
+              University of California Berkeley <http://icsi.berkeley.edu/>`_
 
               - `implemented tools for performing big data studies
                 <http://search.mmcommons.org>`_ in
@@ -154,24 +159,27 @@ since 01/18         Principal Machine Learning Engineer  Mercedes-Benz R&D, USA 
                 using the `multimedia commons <http://mmcommons.org/>`_
                 and guiding 5 undergraduate students for
                 `URAP <http://urapprojects.berkeley.edu/projects/detail.php?id_list=Ele0800>`_
-              - capacity analysis for deep learning and
-                machine learning on EEG as well as robotics data
+              - deep learning: capacity analysis and processing pipeline
+                on EEG data
 
-:05/15-01/17:  *Sr. Scientist* at the 
+:05/15-01/17:  *Sr. Machine Learning Researcher* at the 
              `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
-             University of Bremen, Head: F Kirchner
+             University of Bremen
 
+             - consulting in all ML projects and PhD theses, project acquisition,
+               support of 4 projects
+             - organizer of the  signal processing and the 
+               machine learning workgroups (around 20 people)
+             - master theses supervision (`online SVMs 
+               <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
+               `automatic processing chain optimization 
+               <https://bayesopt.github.io/papers/2016/Hansing.pdf>`_)
              - improved (online) algorithms to better operate when few data 
                or few resources are available
-             - software development (lead developer of 
+             - ML software engineering (lead developer of 
                `pySPACE <http://pyspace.github.io/pyspace/>`_)
-             - master thesis supervision (`online SVMs 
-               <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
-               `automatic processing chain optimization
-               <https://bayesopt.github.io/papers/2016/Hansing.pdf>`_)
-             - organizer of the  signal processing and the 
-               machine learning and optimization workgroups
-             - work in different projects like 
+
+..             - work in different projects like 
                `RECUPERA-Reha 
                <http://robotik.dfki-bremen.de/en/research/projects/recupera-reha.html>`_,
                `BesMan
@@ -181,14 +189,14 @@ since 01/18         Principal Machine Learning Engineer  Mercedes-Benz R&D, USA 
                `Robocademy 
                <http://robotik.dfki-bremen.de/en/research/projects/robocademy.html>`_
 
-:07/10-04/15:  *Scientist* at the 
+:07/10-04/15:  *Machine Learning Researcher* at the 
              `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
-             University of Bremen, Head: F Kirchner
+             University of Bremen
 
              - general concepts for connecting SVM variants 
                (regression, one-class classification, online learning) to improve
                understanding especially for teaching and usability
-             - lead developer of `pySPACE <http://pyspace.github.io/pyspace/>`_
+             - lead software developer of `pySPACE <http://pyspace.github.io/pyspace/>`_
                (open source release, refactoring, documentation, user support,
                user interface, multi-class, regression, pipeline decoding visualization, etc.)
              - contribution to project proposals and supervision of student assistants and a master thesis
@@ -196,21 +204,45 @@ since 01/18         Principal Machine Learning Engineer  Mercedes-Benz R&D, USA 
                <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
                (intelligent man-machine interface)
 
-:05/09-06/10:  *Jr. Scientist* at the DFKI GmbH 
-             (German Research Center for Artificial Intelligence), `Robotics Innovation Center 
-             <http://robotik.dfki-bremen.de/en/startpage.html>`_, Bremen, 
-             Head: F Kirchner
-
+:05/09-06/10:  *Jr. ML Researcher* at the `DFKI GmbH, <https://www.dfki.de/en/web/>`_
+             `Robotics Innovation Center 
+             <http://robotik.dfki-bremen.de/en/startpage.html>`_, Bremen
+.. 
              - classification, performance evaluation, etc. added to
                `pySPACE <http://pyspace.github.io/pyspace/>`_
                in project `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
 
 |br|
 
+**UNIVERSITY TEACHING**
+
+======== ================ ======================================= ==============
+Semester Type             Title                                   Organizer
+======== ================ ======================================= ==============
+FA2017   seminar          Undergrad. Research Apprentice Program  (G Friedland)
+SP2017   seminar          Undergrad. Research Apprentice Program  (G Friedland)
+WS2016   seminar          decision models in natural sciences     HG Döbereiner
+WS2016   complete lecture machine learning for autonomous robots  (F Kirchner)
+SS2016   lecture+tutorial reinforcement learning                  F Kirchner
+WS2015   complete lecture machine learning for autonomous robots  (F Kirchner)
+SS2015   lecture          reinforcement learning                  F Kirchner
+SS2015   corrected exams  fundamentals in computer science 2      F Kirchner
+WS2014   coordination     behaviour based robotics                F Kirchner
+WS2014   lecture+coord.   machine learning for autonomous robots  (F Kirchner)
+WS2013   lecture+tutorial machine learning for autonomous robots  F Kirchner
+SS2012   tutorial         analysis 2 (mathematics)                B Stratmann
+WS2011   tutorial         analysis 1 (mathematics)                B Stratmann
+SS2010   tutorial         mathematics 2 (computer science)        R Stöver
+WS2009   tutorial         mathematics 1 (computer science)        R Stöver
+before   exercise sheets  corrections for mathematics lectures    Various
+======== ================ ======================================= ==============
+
+|np| |br|
+
 **RESEARCH TOPICS**
 
 :Multimedia Big Data Studies:
-  My objective was to implement a framework that enables researchers
+  Develop a framework that enables researchers
   of many research fields to extract useful data from user-generated content
   to perform field studies.
 
@@ -240,7 +272,7 @@ since 01/18         Principal Machine Learning Engineer  Mercedes-Benz R&D, USA 
   reinforcement learning, 
   soil detection, outlier detection, space simulation modeling, etc.
 
-|np| |br|
+|br|
 
 **MAJOR PUBLICATIONS**
 
@@ -302,32 +334,6 @@ since 01/18         Principal Machine Learning Engineer  Mercedes-Benz R&D, USA 
     <https://raw.githubusercontent.com/MMKrell/CV/gh-pages/paper/2009_diploma_thesis.pdf>`_,
     MM Krell (2009),
     diploma thesis, Humboldt University of Berlin, Berlin, 1-91
-
-|br|
-
-**UNIVERSITY TEACHING**
-
-======== ================ ======================================= ==============
-Semester Type             Title                                   Organizer
-======== ================ ======================================= ==============
-FA2017   seminar          Undergrad. Research Apprentice Program  (G Friedland)
-SP2017   seminar          Undergrad. Research Apprentice Program  (G Friedland)
-WS2016   seminar          decision models in natural sciences     HG Döbereiner
-WS2016   complete lecture machine learning for autonomous robots  (F Kirchner)
-SS2016   lecture+tutorial reinforcement learning                  F Kirchner
-WS2015   complete lecture machine learning for autonomous robots  (F Kirchner)
-SS2015   lecture          reinforcement learning                  F Kirchner
-SS2015   corrected exams  fundamentals in computer science 2      F Kirchner
-WS2014   coordination     behaviour based robotics                F Kirchner
-WS2014   lecture+coord.   machine learning for autonomous robots  (F Kirchner)
-WS2013   lecture+tutorial machine learning for autonomous robots  F Kirchner
-SS2012   tutorial         analysis 2 (mathematics)                B Stratmann
-WS2011   tutorial         analysis 1 (mathematics)                B Stratmann
-SS2010   tutorial         mathematics 2 (computer science)        R Stöver
-WS2009   tutorial         mathematics 1 (computer science)        R Stöver
-before   exercise sheets  corrections for mathematics lectures    Various
-======== ================ ======================================= ==============
-
 
 |np| |br|
 
@@ -484,6 +490,9 @@ before   exercise sheets  corrections for mathematics lectures    Various
     EA Kirchner, F Kirchner (2014),
     In Proceedings of the ECML/PKDD-2014, Nancy
 
+  - `Introduction to pySPACE <http://youtu.be/KobSyPceR6I>`_, *MM Krell*,
+    PyData Berlin 2014, Berlin, Germany (2014)
+
   - `Memory and Processing Efficient Formula for Moving Variance Calculation 
     in EEG and EMG Signal Processing 
     <http://www.dfki.de/web/forschung/publikationen/renameFileForDownload?filename=131008_Memory%20and%20Processing%20Efficient%20Formula%20for%20Moving%20Variance%20Calculation%20in%20EEG%20and%20EMG%20Signal%20Processing_NEUROTECHNIX_Krell.pdf&file_id=uploads_2062>`_,
@@ -498,6 +507,10 @@ before   exercise sheets  corrections for mathematics lectures    Various
     F Kirchner (2013),
     In International Congress on Neurotechnology, Electronics and Informatics:
     46-53, ScitePress, doi:10.5220/0004637800460053
+
+  - `Introduction to pySPACE workflows`, *MM Krell*,
+    NIPS workshop *Machine Learning Open Source Software: 
+    Towards Open Workflows*, Lake Tahoe, Nevada, USA (2013)
 
   - `Choosing an Appropriate Performance Measure: Classification of EEG-Data with Varying Class Distribution
     <https://raw.githubusercontent.com/MMKrell/CV/gh-pages/paper/2011_balanced_accuracy.pdf>`_,
