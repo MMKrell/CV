@@ -33,7 +33,7 @@ Dr. MARIO MICHAEL KRELL
 
 **SUMMARY**
 
-  - Machine Learning Researcher with 10-year background in 
+  - Senior Machine Learning Researcher with 10-year background in 
     machine learning
   - Strong problem solving, mathematical analysis, 
     and interdisciplinary teamwork skills
@@ -50,6 +50,7 @@ Dr. MARIO MICHAEL KRELL
   **address**   Redwood City, CA             **languages**   English (fluent), German (fluent), French (basic)
 ============== ============================= =============== ====================================================
 
+
 |br|
 
 **EDUCATION**
@@ -57,8 +58,8 @@ Dr. MARIO MICHAEL KRELL
 ===== ==================================== ==================================== ============== =====
 Time  Degree                               Institute                            Advisor        GPA
 ----- ------------------------------------ ------------------------------------ -------------- -----
-03/15 PhD in CS (machine learning)         University of Bremen, Robotics Group Kirchner, F.   4.0
-03/09 degree in mathematics ("Diplom")     Humboldt University of Berlin        Kummer, B.     3.9
+03/15 PhD in CS (machine learning)         University of Bremen, Robotics Group F Kirchner     4.0
+03/09 degree in mathematics ("Diplom")     Humboldt University of Berlin        B Kummer       3.9
 06/03 university-entrance diploma          C.-F.-Gauß-Gymnasium Frankfurt (O.)                 3.8
 ===== ==================================== ==================================== ============== =====
 
@@ -66,33 +67,34 @@ Time  Degree                               Institute                            
 
 **SKILLS**
 
-  - collaboration in multicultural/interdisciplinary teams
-    (engineers, computer/neuro-scientists, manager, PO)
-    
-  - leadership experience with small teams,
-    stakeholder interaction, certified scrum master/PO
-    
-  - project acquisition, patenting, documentation, process definition
-
   - problem solving, machine learning expertise,
     mathematical analysis, optimization
 
-  - independent research and data analysis (>35 publications, >250 citations), 
+  - independent research and data analysis (>35 publications, >350 citations), 
     teaching, scientific presentation
 
   - basic knowledge in brain-machine interfaces, robotics,
-    multimedia, cars
+    multimedia, cars, intelligent processing units (IPUs)
 
   - `Software development in Python <http://www.python.org/>`_: 
     `NumPy <https://numpy.org/>`_,
     `Git <https://github.com/MMKrell>`_,
     `Sphinx <http://sphinx-doc.org/>`_,
-    HPC, deep learning with Keras,
+    HPC,
     scikit-learn
     (see `pySPACE <http://pyspace.github.io/pyspace/>`_);
-    basic experience with  
+    basic experience with
+    IPU, TensorFlow, PyTorch,
     `Solr, AWS <http://search.mmcommons.org>`_,
-    data analytics with PySpark on Azure and Pandas
+    data analytics with PySpark on Azure
+
+  - collaboration in multicultural/interdisciplinary teams
+    (engineers, computer/neuro-scientists, manager, PO)
+    
+  - leadership experience with small teams,
+    stakeholder interaction, and as scrum master/PO
+    
+  - project acquisition, patenting, documentation, process definition
 
 |br|
 
@@ -131,8 +133,19 @@ since 09/19         AI Applications Specialist           Graphcore              
 
 **WORK EXPERIENCE**
 
-:since 09/19: *AI Applications Specialist* at 
+:since 09/19: *AI Applications Specialist* (Senior ML Engineer/Researcher) at 
               `Graphcore <https://www.graphcore.ai/>`_
+
+              - tuning of state of the art models targeting the IPU: `RL (MiniGo) 
+                <https://github.com/graphcore/demos/tree/master/tensorflow/minigo_0_6>`_,
+                `prob. models <https://github.com/graphcore/demos/tree/master/tensorflow2/ABC_COVID-19>`_, 
+                `image processing <https://github.com/graphcore/examples/tree/master/code_examples/tensorflow/cosmoflow>`_
+              - ML software testing, documentation (e.g., `performance guide 
+                <https://docs.graphcore.ai/projects/tf-recompilation/en/latest/>`_), 
+                improvement, analysis
+              - project management, presentions, coaching, teaching, 
+                `paper writing 
+                <https://www.umass.edu/nanofabrics/publication/accelerating-simulation-based-inference-emerging-ai-hardware>`_
 
 :01/18-07/19: *Principal Machine Learning Engineer* at 
               `Mercedes-Benz Research & Development North America
@@ -140,14 +153,14 @@ since 09/19         AI Applications Specialist           Graphcore              
               in the Statistics, Optimization, Machine Learning, and
               Analytics (SOMA) team
 
-              - stakeholder interaction, lead 4 different projects,
-                project acquisition, quality control
-              - booth duty at CES & GTC,
-                10 patent proposals, 2 white papers
-              - big car data analytics to understand costumer behaviour and
+              - big car data analytics to understand customer behaviour and
                 develop new products
               - development of algorithms for user action prediction
                 for the headunit (display) in the car
+              - stakeholder interaction, lead 4 different projects,
+                project acquisition, quality control
+              - 10 patent proposals (5 filings), 2 white papers,
+                booth duty at CES & GTC
 
 :02/17-12/17: *Postdoctoral Research Scholar in Machine Learning* at 
               `ICSI (International Computer Science Institute),
@@ -159,27 +172,36 @@ since 09/19         AI Applications Specialist           Graphcore              
                 using the `multimedia commons <http://mmcommons.org/>`_
                 and guiding 5 undergraduate students for
                 `URAP <http://urapprojects.berkeley.edu/projects/detail.php?id_list=Ele0800>`_
-              - deep learning: capacity analysis and processing pipeline
-                on EEG data
+              - deep learning: capacity analysis and processing pipeline development
+                for EEG data
 
 :05/15-01/17:  *Sr. Machine Learning Researcher* at the 
              `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
+             University of Bremen, and
+:07/10-04/15:  *Machine Learning Researcher* at the 
+             `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
              University of Bremen
 
-             - consulting in all ML projects and PhD theses, project acquisition,
-               support of 4 projects
+             - consulting in all ML projects, project acquisition,
+               support of more than 4 projects
+             - develop general concepts for connecting SVM variants 
+               (regression, one-class classification, online learning) to improve
+               understanding especially for teaching and usability
+             - lead ML software developer of `pySPACE <http://pyspace.github.io/pyspace/>`_
+               (open source release, refactoring, documentation, user support,
+               user interface, multi-class, regression, pipeline decoding visualization, etc.)
              - organizer of the  signal processing and the 
                machine learning workgroups (around 20 people)
-             - master theses supervision (`online SVMs 
+             - student supervision (`online SVMs 
                <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
                `automatic processing chain optimization 
                <https://bayesopt.github.io/papers/2016/Hansing.pdf>`_)
-             - improved (online) algorithms to better operate when few data 
+
+..           - improved (online) algorithms to better operate when few data 
                or few resources are available
              - ML software engineering (lead developer of 
                `pySPACE <http://pyspace.github.io/pyspace/>`_)
-
-..             - work in different projects like 
+             - work in different projects like 
                `RECUPERA-Reha 
                <http://robotik.dfki-bremen.de/en/research/projects/recupera-reha.html>`_,
                `BesMan
@@ -188,17 +210,6 @@ since 09/19         AI Applications Specialist           Graphcore              
                <http://robotik.dfki-bremen.de/en/research/projects/entern.html>`_,
                `Robocademy 
                <http://robotik.dfki-bremen.de/en/research/projects/robocademy.html>`_
-
-:07/10-04/15:  *Machine Learning Researcher* at the 
-             `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
-             University of Bremen
-
-             - general concepts for connecting SVM variants 
-               (regression, one-class classification, online learning) to improve
-               understanding especially for teaching and usability
-             - lead software developer of `pySPACE <http://pyspace.github.io/pyspace/>`_
-               (open source release, refactoring, documentation, user support,
-               user interface, multi-class, regression, pipeline decoding visualization, etc.)
              - contribution to project proposals and supervision of student assistants and a master thesis
              - successfully finished the project `IMMI
                <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
@@ -207,8 +218,8 @@ since 09/19         AI Applications Specialist           Graphcore              
 :05/09-06/10:  *Jr. ML Researcher* at the `DFKI GmbH, <https://www.dfki.de/en/web/>`_
              `Robotics Innovation Center 
              <http://robotik.dfki-bremen.de/en/startpage.html>`_, Bremen
-.. 
-             - classification, performance evaluation, etc. added to
+
+..           - classification, performance evaluation, etc. added to
                `pySPACE <http://pyspace.github.io/pyspace/>`_
                in project `VI-Bot <http://robotik.dfki-bremen.de/en/research/projects/vi-bot.html>`_
 
@@ -241,10 +252,10 @@ before   exercise sheets  corrections for mathematics lectures    Various
 
 **RESEARCH TOPICS**
 
-:Multimedia Big Data Studies:
-  Develop a framework that enables researchers
-  of many research fields to extract useful data from user-generated content
-  to perform field studies.
+:Intelligence Processing Unit (IPU):
+  How can applications be accelerated by this novel chip 
+  and which algorithms fit best?
+  I contributed applications, guides, and code.
 
 :Framework - pySPACE:
   is a
@@ -276,9 +287,14 @@ before   exercise sheets  corrections for mathematics lectures    Various
 
 **MAJOR PUBLICATIONS**
 
+  - `Accelerating Simulation-based Inference with Emerging AI Hardware
+    <https://www.umass.edu/nanofabrics/publication/accelerating-simulation-based-inference-emerging-ai-hardware>`_,
+    S Kulkarni, A Tsyplikhin, *MM Krell*, CA Moritz (2020),
+    In Proceedings of IEEE ICRC
+
   - `A Capacity Scaling Law for Artificial Neural Networks
     <https://arxiv.org/abs/1708.06019>`_,
-    G Friedland, *MM Krell*, 2018, submitted
+    G Friedland, *MM Krell* (2018), submitted
 
   - `Data Augmentation for Brain-Computer Interfaces: 
     Analysis on Event-Related Potentials Data <https://arxiv.org/abs/1801.02730>`_,
@@ -292,18 +308,6 @@ before   exercise sheets  corrections for mathematics lectures    Various
   - `Field Studies with Multimedia Big Data: Opportunities and Challenges (Extended Version) 
     <https://arxiv.org/abs/1712.09915>`_,
     *MM Krell*, J Bernd, D Ma, J Choi, D Borth, G Friedland (2017), submitted
-
-  - `Classifier Transfer with Data Selection Strategies for Online Support Vector Machine Classification with Class Imbalance
-    <http://dx.doi.org/10.1088/1741-2552/aa5166>`_,
-    *MM Krell*, N Wilshusen, A Seeland, SK Kim (2017),
-    Journal of Neural Engineering 14(2), IOP Publishing,
-    doi: 10.1088/1741-2552/aa5166
-
-  - `Backtransformation: A new representation of data processing chains with a scalar decision function
-    <http://dx.doi.org/10.1007/s11634-015-0229-3>`_,
-    *MM Krell*, S Straube (2017),
-    Advances in Data Analysis and Classification 11 (2): 415-439,
-    doi:10.1007/s11634-015-0229-3
 
   - `Generalizing, Decoding, and Optimizing Support Vector Machine Classification
     <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
@@ -338,6 +342,21 @@ before   exercise sheets  corrections for mathematics lectures    Various
 |np| |br|
 
 **MINOR PUBLICATIONS**
+
+  - `A First Step Towards Distribution Invariant Regression Metrics <https://arxiv.org/abs/2009.05176>`_,
+    *MM Krell*, B Wehbe, (2020), submitted
+
+  - `Classifier Transfer with Data Selection Strategies for Online Support Vector Machine Classification with Class Imbalance
+    <http://dx.doi.org/10.1088/1741-2552/aa5166>`_,
+    *MM Krell*, N Wilshusen, A Seeland, SK Kim (2017),
+    Journal of Neural Engineering 14(2), IOP Publishing,
+    doi: 10.1088/1741-2552/aa5166
+
+  - `Backtransformation: A new representation of data processing chains with a scalar decision function
+    <http://dx.doi.org/10.1007/s11634-015-0229-3>`_,
+    *MM Krell*, S Straube (2017),
+    Advances in Data Analysis and Classification 11 (2): 415-439,
+    doi:10.1007/s11634-015-0229-3
 
   - `Online Model Identification for Underwater Vehicles through Incremental Support Vector Regression
     <https://www.researchgate.net/profile/Bilal_Wehbe/publication/319351354_Learning_Coupled_Dynamic_Models_of_Underwater_Vehicles_using_Support_Vector_Regression/links/59a66fc90f7e9b41b788e519/Learning-Coupled-Dynamic-Models-of-Underwater-Vehicles-using-Support-Vector-Regression.pdf>`_,

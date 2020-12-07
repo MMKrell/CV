@@ -10,6 +10,9 @@
 
 :2014-2016: chamber choir at the University of Arts Bremen
 :2017: University Chorus UC Berkeley
+:2019: Stanford Summer Chorus
+:2019: Stanford Symphony Chorus
+:2019: Stanford Memorial Church Chorus
 
 Repertoire
 ----------
@@ -20,7 +23,7 @@ Repertoire
 * "The Origin: Darwin's Music" by Richard Einhorn
 * "Panda chant" by Meredith Monk
 * "The wise man delight"
-* African songs at the choir of the university of Bremen
+* African songs at the choir of the University of Bremen
 * "Carmina Burana" by Carl Orff
 * numerous Christmas songs
 * numerous international and German folk songs
