@@ -70,23 +70,17 @@ Time  Degree                               Institute                            
   - problem solving, machine learning expertise,
     mathematical analysis, optimization
 
-  - independent research and data analysis (>35 publications, >350 citations), 
+  - independent research and data analysis (>40 publications, >500 citations), 
     teaching, scientific presentation
 
   - basic knowledge in brain-machine interfaces, robotics,
     multimedia, cars, intelligent processing units (IPUs)
 
-  - `Software development in Python <http://www.python.org/>`_: 
+  - software development: `Python <http://pyspace.github.io/pyspace>`_: 
     `NumPy <https://numpy.org/>`_,
     `Git <https://github.com/MMKrell>`_,
     `Sphinx <http://sphinx-doc.org/>`_,
-    HPC,
-    scikit-learn
-    (see `pySPACE <http://pyspace.github.io/pyspace/>`_);
-    basic experience with
-    IPU, TensorFlow, PyTorch,
-    `Solr, AWS <http://search.mmcommons.org>`_,
-    data analytics with PySpark on Azure
+    HPC, TensorFlow, PyTorch, IPUs
 
   - collaboration in multicultural/interdisciplinary teams
     (engineers, computer/neuro-scientists, manager, PO)
@@ -96,6 +90,17 @@ Time  Degree                               Institute                            
     
   - project acquisition, patenting, documentation, process definition
 
+..    `Solr, AWS <http://search.mmcommons.org>`_,
+    data analytics with PySpark on Azure
+  - `Software development in Python <http://www.python.org/>`_: 
+    `NumPy <https://numpy.org/>`_,
+    `Git <https://github.com/MMKrell>`_,
+    `Sphinx <http://sphinx-doc.org/>`_,
+    HPC,
+    scikit-learn
+    (see `pySPACE <http://pyspace.github.io/pyspace/>`_);
+    and with TensorFlow, PyTorch, and IPUs
+
 |br|
 
 **SHORT WORK SUMMARY**
@@ -103,7 +108,8 @@ Time  Degree                               Institute                            
 =================== ==================================== =============================== ============
 Time                Title                                Employer                        Reference
 ------------------- ------------------------------------ ------------------------------- ------------
-since 09/19         AI Applications Specialist           Graphcore                       P Brown
+since 08/21         AI Engineering Manager               Graphcore                       J Irwin
+09/19 - 08/21       AI Applications Specialist           Graphcore                       M Iyer
 01/18 - 07/19       Principal Machine Learning Engineer  Mercedes-Benz R&D, USA          H Endt
 02/17 - 12/17       Postdoc                              UC Berkeley, ICSI, USA          G Friedland
 05/15 - 01/17       Postdoc and Senior ML Researcher     University of Bremen, GER       F&E Kirchner
@@ -129,19 +135,22 @@ since 09/19         AI Applications Specialist           Graphcore              
             `Hans-Böckler Stiftung <http://www.boeckler.de/36912.htm>`_ 
             (Hans Böckler Foundation)
 
+
 |np| |br|
 
 **WORK EXPERIENCE**
 
-:since 09/19: *AI Applications Specialist* (Senior ML Engineer/Researcher) at 
-              `Graphcore <https://www.graphcore.ai/>`_
+:since 08/22: *AI Engineering Manager* and
+:09/19-08/22: *AI Applications Specialist* (Senior ML Engineer/Researcher) at `Graphcore <https://www.graphcore.ai/>`_
 
-              - tuning of state of the art models targeting the IPU: `RL (MiniGo) 
+              - MLPerf submission with focus on ResNet-50 and packing in BERT
+              - tuning of SOTA models on IPU: `RL (MiniGo) 
                 <https://github.com/graphcore/demos/tree/master/tensorflow/minigo_0_6>`_,
                 `prob. models <https://github.com/graphcore/demos/tree/master/tensorflow2/ABC_COVID-19>`_, 
                 `image processing <https://github.com/graphcore/examples/tree/master/code_examples/tensorflow/cosmoflow>`_
               - ML software testing, documentation (e.g., `performance guide 
-                <https://docs.graphcore.ai/projects/tf-recompilation/en/latest/>`_), 
+                <https://docs.graphcore.ai/projects/tf-recompilation/en/latest/>`_,
+                scaling guide, blogs), 
                 improvement, analysis
               - project management, presentions, coaching, teaching, 
                 `paper writing 
@@ -157,10 +166,11 @@ since 09/19         AI Applications Specialist           Graphcore              
                 develop new products
               - development of algorithms for user action prediction
                 for the headunit (display) in the car
-              - stakeholder interaction, lead 4 different projects,
-                project acquisition, quality control
               - 10 patent proposals (5 filings), 2 white papers,
-                booth duty at CES & GTC
+                4 projects, many stakeholders
+                
+..              - stakeholder interaction, lead 4 different projects,
+                project acquisition, quality control, booth duty at CES & GTC
 
 :02/17-12/17: *Postdoctoral Research Scholar in Machine Learning* at 
               `ICSI (International Computer Science Institute),
@@ -187,15 +197,10 @@ since 09/19         AI Applications Specialist           Graphcore              
              - develop general concepts for connecting SVM variants 
                (regression, one-class classification, online learning) to improve
                understanding especially for teaching and usability
-             - lead ML software developer of `pySPACE <http://pyspace.github.io/pyspace/>`_
+             - lead ML software development: `pySPACE <http://pyspace.github.io/pyspace/>`_
                (open source release, refactoring, documentation, user support,
-               user interface, multi-class, regression, pipeline decoding visualization, etc.)
-             - organizer of the  signal processing and the 
-               machine learning workgroups (around 20 people)
-             - student supervision (`online SVMs 
-               <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
-               `automatic processing chain optimization 
-               <https://bayesopt.github.io/papers/2016/Hansing.pdf>`_)
+               user interface, multi-class, regression, pipeline decoding visualization)
+             - student supervision, organize ML and signal processing workgroups
 
 ..           - improved (online) algorithms to better operate when few data 
                or few resources are available
@@ -211,6 +216,12 @@ since 09/19         AI Applications Specialist           Graphcore              
                `Robocademy 
                <http://robotik.dfki-bremen.de/en/research/projects/robocademy.html>`_
              - contribution to project proposals and supervision of student assistants and a master thesis
+             - organizer of the  signal processing and the 
+               machine learning workgroups (around 20 people)
+             - student supervision (`online SVMs 
+               <https://intranet.dfki.de/intranet/research/publications/renameFileForDownload?filename=data_handling.pdf&file_id=uploads_2595>`_;
+               `automatic processing chain optimization 
+               <https://bayesopt.github.io/papers/2016/Hansing.pdf>`_)
              - successfully finished the project `IMMI
                <http://robotik.dfki-bremen.de/en/research/projects/immi.html>`_
                (intelligent man-machine interface)
@@ -250,7 +261,7 @@ before   exercise sheets  corrections for mathematics lectures    Various
 
 |np| |br|
 
-**RESEARCH TOPICS**
+**PREVIOUS RESEARCH TOPICS**
 
 :Intelligence Processing Unit (IPU):
   How can applications be accelerated by this novel chip 
@@ -287,27 +298,33 @@ before   exercise sheets  corrections for mathematics lectures    Various
 
 **MAJOR PUBLICATIONS**
 
-  - `Accelerating Simulation-based Inference with Emerging AI Hardware
-    <https://www.umass.edu/nanofabrics/publication/accelerating-simulation-based-inference-emerging-ai-hardware>`_,
-    S Kulkarni, A Tsyplikhin, *MM Krell*, CA Moritz (2020),
-    In Proceedings of IEEE ICRC
+  - Efficient Sequence Packing without Cross-contamination: 
+    Accelerating Large Language Models without Impacting Performance,
+    *MM Krell*, M Kosec, SP Perez, M Iyer, AW Fitzgibbon (2022)
+
+  - `Hardware-accelerated Simulation-based Inference of Stochastic Epidemiology Models for COVID-19
+    <https://doi.org/10.1145/3471188>`_,
+    S Kulkarni, *MM Krell*, S Nabarro, CA Moritz (2022),
+    In ACM Journal on Emerging Technologies in Computing Systems 18(2): 1-24,
+    doi: 10.1145/3471188
 
   - `A Capacity Scaling Law for Artificial Neural Networks
     <https://arxiv.org/abs/1708.06019>`_,
-    G Friedland, *MM Krell* (2018), submitted
+    G Friedland, *MM Krell* (2018), arXiv
 
   - `Data Augmentation for Brain-Computer Interfaces: 
     Analysis on Event-Related Potentials Data <https://arxiv.org/abs/1801.02730>`_,
-    *MM Krell*, A Seeland, SK Kim (2018), submitted
+    *MM Krell*, A Seeland, SK Kim (2018), arXiv
 
-  - `Empirical comparison of distributed source localization methods for single-trial detection of movement preparation 
+  - `Empirical comparison of distributed source localization methods 
+    for single-trial detection of movement preparation 
     <https://www.frontiersin.org/articles/10.3389/fnhum.2018.00340>`_,
     A Seeland, *MM Krell*, S Straube, EA Kirchner (2018),
     In Front. Hum. Neurosci., doi: 10.3389/fnhum.2018.00340
 
   - `Field Studies with Multimedia Big Data: Opportunities and Challenges (Extended Version) 
     <https://arxiv.org/abs/1712.09915>`_,
-    *MM Krell*, J Bernd, D Ma, J Choi, D Borth, G Friedland (2017), submitted
+    *MM Krell*, J Bernd, D Ma, J Choi, D Borth, G Friedland (2017), arXiv
 
   - `Generalizing, Decoding, and Optimizing Support Vector Machine Classification
     <http://nbn-resolving.de/urn:nbn:de:gbv:46-00104380-12>`_, 
@@ -343,10 +360,21 @@ before   exercise sheets  corrections for mathematics lectures    Various
 
 **MINOR PUBLICATIONS**
 
-  - `A First Step Towards Distribution Invariant Regression Metrics <https://arxiv.org/abs/2009.05176>`_,
-    *MM Krell*, B Wehbe, (2020), submitted
+  - `Packing: Towards 2x NLP BERT Acceleration
+    <https://arxiv.org/abs/2107.02027>`_,
+    M Kosec, Sheng Fu, *MM Krell* (2021), arXiv
 
-  - `Classifier Transfer with Data Selection Strategies for Online Support Vector Machine Classification with Class Imbalance
+  - `NanoBatch DPSGD: Exploring Differentially 
+    Private learning on ImageNet with low batch sizes on the IPU
+    <https://arxiv.org/abs/2109.12191>`_,
+    EH Lee, *MM Krell*, A Tsyplikhin, V Rege, E Colak, KW Yeom (2021), arXiv
+
+  - `A First Step Towards Distribution Invariant Regression Metrics 
+    <https://arxiv.org/abs/2009.05176>`_,
+    *MM Krell*, B Wehbe, (2020), arXiv
+
+  - `Classifier Transfer with Data Selection Strategies for Online 
+    Support Vector Machine Classification with Class Imbalance
     <http://dx.doi.org/10.1088/1741-2552/aa5166>`_,
     *MM Krell*, N Wilshusen, A Seeland, SK Kim (2017),
     Journal of Neural Engineering 14(2), IOP Publishing,
@@ -435,7 +463,8 @@ before   exercise sheets  corrections for mathematics lectures    Various
 |br|
 
 **REVIEWING**
-
+    
+    ICML, NeurIPS,
     Pattern Recognition,
     Expert Systems with Applications,
     Information Sciences, Sensors,
@@ -447,15 +476,28 @@ before   exercise sheets  corrections for mathematics lectures    Various
     Recent Patents on Electrical & Electronic Engineering, 
     Progress in Artificial Intelligence, 
     Neuroadaptive Technology Conference, and
-    internal group reviews
+    internal reviews
 
 |np| |br|
 
 **OTHER PUBLICATIONS**
 
+  - `Accelerating Simulation-based Inference with Emerging AI Hardware
+    <https://www.umass.edu/nanofabrics/publication/accelerating-simulation-based-inference-emerging-ai-hardware>`_,
+    S Kulkarni, A Tsyplikhin, *MM Krell*, CA Moritz (2020),
+    In Proceedings of IEEE ICRC
+
+  - `Benchmarking the Performance of Accelerators on National Cyberinfrastructure Resources 
+    for Artificial Intelligence / Machine Learning Workloads
+    <https://doi.org/10.1145/3491418.3530772>`_, 
+    A Nasari, H Le, R Lawrence, Z He, X Yang, *MM Krell*, 
+    A Tsyplikhin, M Tatineni, T Cockerill, L Perez, D Chakravorty, H Liu (2022),
+    In Practice and Experience in Advanced Research Computing (PEARC '22). 
+    ACM 19: 1–9, doi:10.1145/3491418.3530772
+
   - `A Practical Approach to Sizing Neural Networks
     <https://arxiv.org/abs/1810.02328>`_,
-    G Friedland, A Metere, *MM Krell* (2018), 
+    G Friedland, A Metere, *MM Krell* (2018), arXiv
 
   - `Learning of Multi-Context Models for Autonomous Underwater Vehicles
     <https://arxiv.org/abs/1809.06179>`_,
@@ -468,7 +510,8 @@ before   exercise sheets  corrections for mathematics lectures    Various
     39th Annual International Conference of the IEEE Engineering in 
     Medicine and Biology Society (EMBC’17)
 
-  - `OrigamiSet1.0: Two New Datasets for Origami Classification and Difficulty Estimation`,
+  - `OrigamiSet1.0: Two New Datasets for Origami Classification and Difficulty Estimation
+    <https://www.fishpond.co.il/Books/OSME7/9781911093893>`_,
     D Ma, G Friedland, *MM Krell* (2018),
     In Proceedings of Origami Science Maths Education, 7OSME, Oxford UK
 
