@@ -33,11 +33,11 @@ Dr. MARIO MICHAEL KRELL
 
 **SUMMARY**
 
-  - Senior Machine Learning Researcher with 10-year background in 
-    machine learning
+  - Senior Machine Learning Researcher with 13-year background in 
+    machine learning and management
   - Strong problem solving, mathematical analysis, 
-    and interdisciplinary teamwork skills
-  - Interested in applied research in the Bay Area
+    interdisciplinary teamwork, and leadership skills
+  - Interested in leading applied research in the Bay Area
     that helps humanity
 
 |br|
@@ -45,7 +45,7 @@ Dr. MARIO MICHAEL KRELL
 **PERSONAL INFORMATION**
 
 ============== ============================= =============== ====================================================
-  **email**     krell at uni-bremen dot de    **hobbies**     choir singing, ballroom dancing, hiking, Zumba
+  **email**     krell at uni-bremen dot de    **hobbies**     choir singing, ballroom dancing, hiking
 -------------- ----------------------------- --------------- ----------------------------------------------------
   **address**   Redwood City, CA             **languages**   English (fluent), German (fluent), French (basic)
 ============== ============================= =============== ====================================================
@@ -58,37 +58,42 @@ Dr. MARIO MICHAEL KRELL
 ===== ==================================== ==================================== ============== =====
 Time  Degree                               Institute                            Advisor        GPA
 ----- ------------------------------------ ------------------------------------ -------------- -----
+2017  Postdoc                              UC Berkeley, ICSI, USA               G Friedland    
 03/15 PhD in CS (machine learning)         University of Bremen, Robotics Group F Kirchner     4.0
 03/09 degree in mathematics ("Diplom")     Humboldt University of Berlin        B Kummer       3.9
-06/03 university-entrance diploma          C.-F.-Gauß-Gymnasium Frankfurt (O.)                 3.8
 ===== ==================================== ==================================== ============== =====
+
+.. 06/03 university-entrance diploma          C.-F.-Gauß-Gymnasium Frankfurt (O.)                 3.8
 
 |br|
 
 **SKILLS**
 
-  - problem solving, machine learning expertise,
+  - problem solving, machine learning, deep learning,
     mathematical analysis, optimization
+
+  - leadership experience with up to 8 direct reports,
+    stakeholder interaction, and as scrum master/PO
+
+  - collaboration in multicultural/interdisciplinary teams
+    (engineers, computer/neuro-scientists, manager, PO)
 
   - independent research and data analysis (>40 publications, >500 citations), 
     teaching, scientific presentation
 
-  - basic knowledge in brain-machine interfaces, robotics,
-    multimedia, cars, intelligent processing units (IPUs)
-
-  - software development: `Python <http://pyspace.github.io/pyspace>`_: 
+  - software development: `Python <http://pyspace.github.io/pyspace>`_, 
     `NumPy <https://numpy.org/>`_,
     `Git <https://github.com/MMKrell>`_,
-    `Sphinx <http://sphinx-doc.org/>`_,
-    HPC, TensorFlow, PyTorch, IPUs
+    `Sphinx <https://www.sphinx-doc.org/en/master/>`_,
+    HPC, TensorFlow, PyTorch, documentation
 
-  - collaboration in multicultural/interdisciplinary teams
-    (engineers, computer/neuro-scientists, manager, PO)
-    
-  - leadership experience with small teams,
-    stakeholder interaction, and as scrum master/PO
-    
-  - project acquisition, patenting, documentation, process definition
+  - GNN, SVM, SVR, CNN (ResNet-50), NLP (BERT), probabilistic models (ABC, AdGMoM), 
+    RL (MiniGo), evaluation, capacity, differential privacy, signal processing, clustering, source localisation
+
+  - basic knowledge in brain-machine interfaces, robotics,
+    multimedia, cars, hardware acceleration (IPUs)
+
+..   - project acquisition, patenting, process definition
 
 ..    `Solr, AWS <http://search.mmcommons.org>`_,
     data analytics with PySpark on Azure
@@ -108,12 +113,12 @@ Time  Degree                               Institute                            
 =================== ==================================== =============================== ============
 Time                Title                                Employer                        Reference
 ------------------- ------------------------------------ ------------------------------- ------------
-since 08/21         AI Engineering Manager               Graphcore                       J Irwin
-09/19 - 08/21       AI Applications Specialist           Graphcore                       M Iyer
+08/22 - 10/22       AI Engineering Manager               Graphcore                       J Irwin
+09/19 - 08/22       AI Applications Specialist           Graphcore                       M Iyer
 01/18 - 07/19       Principal Machine Learning Engineer  Mercedes-Benz R&D, USA          H Endt
 02/17 - 12/17       Postdoc                              UC Berkeley, ICSI, USA          G Friedland
-05/15 - 01/17       Postdoc and Senior ML Researcher     University of Bremen, GER       F&E Kirchner
-07/10 - 04/15       Machine Learning Researcher          University of Bremen, GER       S Straube
+03/15 - 01/17       Postdoc and Senior ML Researcher     University of Bremen, GER       F&E Kirchner
+07/10 - 03/15       Machine Learning Researcher          University of Bremen, GER       S Straube
 05/09 - 06/10       Jr. ML Researcher                    DFKI GmbH, Bremen, GER          A Seeland
 =================== ==================================== =============================== ============
 
@@ -121,86 +126,91 @@ since 08/21         AI Engineering Manager               Graphcore              
 
 **AWARDS AND GRANTS**
 
-:2017: DAAD research scholarship for a project at `ICSI, Berkeley <http://icsi.berkeley.edu/>`_
+:2021: Top performer at Graphcore
+:2017: DAAD research scholarship for a project at `ICSI, Berkeley <http://www.icsi.berkeley.edu/icsi/>`_
 :2017: Lead DFKI activity for H2020 Grant (`InFuse <https://www.h2020-infuse.eu/>`_), 3.5 Mio. Euro
 :2017: Industry project funding by local government (xMove), 200.000 Euro
 :2017: Second prize for best student poster at 
-       `OCEANS 2017 MTS/IEEE Aberdeen <http://www.oceans17mtsieeeaberdeen.org/>`_
-:2016: YERUN scholarship for 
-       `Big Data and Analytics <https://www.essex.ac.uk/iads/events/summer-school.aspx>`_ 
-       Summer School at the University of Essex
-:2015: Scholarship of University of Bremen for 
-       `29th Machine Learning Summer School, Kyoto <http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php>`_
-:2005-2009: Scholarship of 
-            `Hans-Böckler Stiftung <http://www.boeckler.de/36912.htm>`_ 
-            (Hans Böckler Foundation)
+       `OCEANS 2017 MTS/IEEE Aberdeen <https://oceans17mtsieeeaberdeen.org/>`_
+:Scholarships: 
+  `Hans-Böckler Stiftung <https://www.boeckler.de/en/index.htm>`_ (2005-2009), 
+  University of Bremen (2015), Yerun (2016)
+
+..  :2016: YERUN scholarship for 
+        `Big Data and Analytics <https://www.essex.ac.uk/iads/events/summer-school.aspx>`_ 
+        Summer School at the University of Essex
+ :2015: Scholarship of University of Bremen for 
+        `29th Machine Learning Summer School, Kyoto <http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php>`_
+ :2005-2009: Scholarship of 
+             `Hans-Böckler Stiftung <http://www.boeckler.de/36912.htm>`_ 
+             (Hans Böckler Foundation)
 
 
 |np| |br|
 
 **WORK EXPERIENCE**
 
-:since 08/22: *AI Engineering Manager* and
-:09/19-08/22: *AI Applications Specialist* (Senior ML Engineer/Researcher) at `Graphcore <https://www.graphcore.ai/>`_
+:09/19-10/22: *Principle Machine Learning Lead* at `Graphcore <https://www.graphcore.ai/>`_
 
-              - MLPerf submission with focus on ResNet-50 and packing in BERT
-              - tuning of SOTA models on IPU: `RL (MiniGo) 
-                <https://github.com/graphcore/demos/tree/master/tensorflow/minigo_0_6>`_,
-                `prob. models <https://github.com/graphcore/demos/tree/master/tensorflow2/ABC_COVID-19>`_, 
-                `image processing <https://github.com/graphcore/examples/tree/master/code_examples/tensorflow/cosmoflow>`_
-              - ML software testing, documentation (e.g., `performance guide 
-                <https://docs.graphcore.ai/projects/tf-recompilation/en/latest/>`_,
-                scaling guide, blogs), 
-                improvement, analysis
-              - project management, presentions, coaching, teaching, 
-                `paper writing 
-                <https://www.umass.edu/nanofabrics/publication/accelerating-simulation-based-inference-emerging-ai-hardware>`_
+              - people management (up to 8 direct reports), change management, teaching, coaching
+              - `impressive MLPerf submission <https://www.graphcore.ai/posts/performance-at-scale-graphcores-latest-mlperf-training-results>`_ 
+                with focus on 
+                `ResNet-50 <https://medium.com/towards-data-science/accelerating-resnet-50-training-on-the-ipu-behind-our-mlperf-benchmark-2cefe43ab2b2>`_ and 
+                `packing in BERT <https://towardsdatascience.com/introducing-packed-bert-for-2x-faster-training-in-natural-language-processing-eadb749962b1?gi=6af658c76acb>`_
+              - tuning numerous models on IPU: `GNNs <https://arxiv.org/abs/2209.06354>`_, 
+                `image processing <https://github.com/graphcore/examples/tree/master/ai_for_simulation/cosmoflow/tensorflow1>`_,
+                `prob. models <https://github.com/MMKrell/demos/tree/master/tensorflow2/ABC_COVID-19>`_, 
+                `RL (MiniGo)
+                <https://github.com/MMKrell/demos/tree/master/tensorflow/minigo_0_6>`_
+              - write 6 scientific papers, ML software testing, documentation (e.g., `performance guides 
+                <https://docs.graphcore.ai/projects/tf-recompilation/en/latest/recompilation.html>`_,
+                `scaling guide <https://docs.graphcore.ai/projects/memory-performance-optimisation/en/latest/scaling.html>`_, 
+                blogs), improvement, analysis, project management, presentations
 
 :01/18-07/19: *Principal Machine Learning Engineer* at 
               `Mercedes-Benz Research & Development North America
-              <http://mbrdna.com/>`_
+              <https://mbrdna.com/>`_
               in the Statistics, Optimization, Machine Learning, and
               Analytics (SOMA) team
 
+              - 3 direct reports, 4 projects, many stakeholders, 
+                10 patent proposals (5 filings), 2 papers
               - big car data analytics to understand customer behaviour and
                 develop new products
               - development of algorithms for user action prediction
                 for the headunit (display) in the car
-              - 10 patent proposals (5 filings), 2 white papers,
-                4 projects, many stakeholders
                 
 ..              - stakeholder interaction, lead 4 different projects,
                 project acquisition, quality control, booth duty at CES & GTC
 
 :02/17-12/17: *Postdoctoral Research Scholar in Machine Learning* at 
               `ICSI (International Computer Science Institute),
-              University of California Berkeley <http://icsi.berkeley.edu/>`_
+              University of California Berkeley <http://www.icsi.berkeley.edu/icsi/>`_
 
-              - `implemented tools for performing big data studies
-                <http://search.mmcommons.org>`_ in
-                numerous different disciplines
+              - guide 5 undergraduate students for
+                `URAP <https://urapprojects.berkeley.edu/projects/detail.php?id_list=Ele0800>`_,
+                implement tools for performing big data studies
+                in numerous different disciplines
                 using the `multimedia commons <http://mmcommons.org/>`_
-                and guiding 5 undergraduate students for
-                `URAP <http://urapprojects.berkeley.edu/projects/detail.php?id_list=Ele0800>`_
               - deep learning: capacity analysis and processing pipeline development
                 for EEG data
 
 :05/15-01/17:  *Sr. Machine Learning Researcher* at the 
-             `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
+             `Robotics Group <https://robotik.dfki-bremen.de/en/startpage.html>`_, 
              University of Bremen, and
 :07/10-04/15:  *Machine Learning Researcher* at the 
-             `Robotics Group <http://robotik.dfki-bremen.de/en/startpage.html>`_, 
+             `Robotics Group <https://robotik.dfki-bremen.de/en/startpage.html>`_, 
              University of Bremen
 
-             - consulting in all ML projects, project acquisition,
+             - consult in all machine learning projects, project acquisition,
                support of more than 4 projects
-             - develop general concepts for connecting SVM variants 
-               (regression, one-class classification, online learning) to improve
-               understanding especially for teaching and usability
+             - student supervision, organize machine learning and signal processing workgroups
              - lead ML software development: `pySPACE <http://pyspace.github.io/pyspace/>`_
                (open source release, refactoring, documentation, user support,
                user interface, multi-class, regression, pipeline decoding visualization)
-             - student supervision, organize ML and signal processing workgroups
+             - develop general concepts for connecting SVM variants 
+               (regression, one-class classification, online learning) to improve
+               understanding especially for teaching and usability
 
 ..           - improved (online) algorithms to better operate when few data 
                or few resources are available
@@ -208,13 +218,13 @@ since 08/21         AI Engineering Manager               Graphcore              
                `pySPACE <http://pyspace.github.io/pyspace/>`_)
              - work in different projects like 
                `RECUPERA-Reha 
-               <http://robotik.dfki-bremen.de/en/research/projects/recupera-reha.html>`_,
+               <https://robotik.dfki-bremen.de/en/research/projects/recupera-reha.html>`_,
                `BesMan
-               <http://robotik.dfki-bremen.de/en/research/projects/besman.html>`_,
+               <https://robotik.dfki-bremen.de/en/research/projects/besman.html>`_,
                `Entern
-               <http://robotik.dfki-bremen.de/en/research/projects/entern.html>`_,
+               <https://robotik.dfki-bremen.de/en/research/projects/entern.html>`_,
                `Robocademy 
-               <http://robotik.dfki-bremen.de/en/research/projects/robocademy.html>`_
+               <https://robotik.dfki-bremen.de/en/research/projects/robocademy.html>`_
              - contribution to project proposals and supervision of student assistants and a master thesis
              - organizer of the  signal processing and the 
                machine learning workgroups (around 20 people)
@@ -228,7 +238,7 @@ since 08/21         AI Engineering Manager               Graphcore              
 
 :05/09-06/10:  *Jr. ML Researcher* at the `DFKI GmbH, <https://www.dfki.de/en/web/>`_
              `Robotics Innovation Center 
-             <http://robotik.dfki-bremen.de/en/startpage.html>`_, Bremen
+             <https://robotik.dfki-bremen.de/en/startpage.html>`_, Bremen
 
 ..           - classification, performance evaluation, etc. added to
                `pySPACE <http://pyspace.github.io/pyspace/>`_
@@ -236,46 +246,51 @@ since 08/21         AI Engineering Manager               Graphcore              
 
 |br|
 
-**UNIVERSITY TEACHING**
+**TEACHING**
 
-======== ================ ======================================= ==============
-Semester Type             Title                                   Organizer
-======== ================ ======================================= ==============
-FA2017   seminar          Undergrad. Research Apprentice Program  (G Friedland)
-SP2017   seminar          Undergrad. Research Apprentice Program  (G Friedland)
-WS2016   seminar          decision models in natural sciences     HG Döbereiner
-WS2016   complete lecture machine learning for autonomous robots  (F Kirchner)
-SS2016   lecture+tutorial reinforcement learning                  F Kirchner
-WS2015   complete lecture machine learning for autonomous robots  (F Kirchner)
-SS2015   lecture          reinforcement learning                  F Kirchner
-SS2015   corrected exams  fundamentals in computer science 2      F Kirchner
-WS2014   coordination     behaviour based robotics                F Kirchner
-WS2014   lecture+coord.   machine learning for autonomous robots  (F Kirchner)
-WS2013   lecture+tutorial machine learning for autonomous robots  F Kirchner
-SS2012   tutorial         analysis 2 (mathematics)                B Stratmann
-WS2011   tutorial         analysis 1 (mathematics)                B Stratmann
-SS2010   tutorial         mathematics 2 (computer science)        R Stöver
-WS2009   tutorial         mathematics 1 (computer science)        R Stöver
-before   exercise sheets  corrections for mathematics lectures    Various
-======== ================ ======================================= ==============
+=========== ================ ======================================= ==============
+Semester    Type             Title                                   Organizer
+=========== ================ ======================================= ==============
+2019/20/21  seminar          work topics related reading group       MM Krell
+2019        seminar          discuss different ML and CS algorithm   MM Krell
+FA2017      seminar          Undergrad. Research Apprentice Program  (G Friedland)
+SP2017      seminar          Undergrad. Research Apprentice Program  (G Friedland)
+2014-17     seminar          machine learning workgroup              MM Krell
+WS2016      seminar          decision models in natural sciences     HG Döbereiner
+WS2016      complete lecture machine learning for autonomous robots  (F Kirchner)
+SS2016      lecture+tutorial reinforcement learning                  F Kirchner
+WS2015      complete lecture machine learning for autonomous robots  (F Kirchner)
+SS2015      lecture          reinforcement learning                  F Kirchner
+SS2015      corrected exams  fundamentals in computer science 2      F Kirchner
+WS2014      coordination     behaviour based robotics                F Kirchner
+WS2014      lecture+coord.   machine learning for autonomous robots  (F Kirchner)
+WS2013      lecture+tutorial machine learning for autonomous robots  F Kirchner
+SS2012      tutorial         analysis 2 (mathematics)                B Stratmann
+WS2011      tutorial         analysis 1 (mathematics)                B Stratmann
+SS2010      tutorial         mathematics 2 (computer science)        R Stöver
+WS2009      tutorial         mathematics 1 (computer science)        R Stöver
+=========== ================ ======================================= ==============
+
+
+.. before   exercise sheets  corrections for mathematics lectures    Various
 
 |np| |br|
 
-**PREVIOUS RESEARCH TOPICS**
+.. **PREVIOUS RESEARCH TOPICS**
 
-:Intelligence Processing Unit (IPU):
+.. :Intelligence Processing Unit (IPU):
   How can applications be accelerated by this novel chip 
   and which algorithms fit best?
   I contributed applications, guides, and code.
 
-:Framework - pySPACE:
+.. :Framework - pySPACE:
   is a
   signal processing and classification environment written in Python which
   is supporting parallelization and intuitive configuration (based on YAML).
   I contributed the major parts to it
   like documentation, usability, numerous algorithms, evaluation, etc.
 
-:Support Vector Machines (SVMs):
+.. :Support Vector Machines (SVMs):
   Due to their generalization capability on few data with high dimensions,
   the SVM is still a common classifier.
   I discovered (smooth) connections to linear discriminant analysis,
@@ -283,30 +298,36 @@ before   exercise sheets  corrections for mathematics lectures    Various
   the online passive-aggressive algorithm.
   to improve the understanding of these algorithms.
 
-:Intelligent Man-Machine Interaction (IMMI):
+.. :Intelligent Man-Machine Interaction (IMMI):
   My task was to improve the electroencephalographic (EEG) data processing
   to detect the perception of rare infrequent important events
   or to predict upcoming movements.
 
-:Robotics:
+.. :Robotics:
   I supported colleagues in robotic applications like
   underwater vehicle movement modeling,
   reinforcement learning, 
   soil detection, outlier detection, space simulation modeling, etc.
 
-|br|
-
 **MAJOR PUBLICATIONS**
 
-  - Efficient Sequence Packing without Cross-contamination: 
-    Accelerating Large Language Models without Impacting Performance,
-    *MM Krell*, M Kosec, SP Perez, M Iyer, AW Fitzgibbon (2022)
+  - `Tuple Packing: Efficient Batching of Small Graphs in Graph Neural Networks <https://arxiv.org/abs/2209.06354>`_,
+    *MM Krell*, M Lopez, S Anand, H Helal, AW Fitzgibbon (2022), arXiv
+
+  - `Efficient Sequence Packing without Cross-contamination: 
+    Accelerating Large Language Models without Impacting Performance <https://arxiv.org/abs/2107.02027v2>`_,
+    *MM Krell*, M Kosec, SP Perez, AW Fitzgibbon (2022), arXiv
 
   - `Hardware-accelerated Simulation-based Inference of Stochastic Epidemiology Models for COVID-19
     <https://doi.org/10.1145/3471188>`_,
     S Kulkarni, *MM Krell*, S Nabarro, CA Moritz (2022),
     In ACM Journal on Emerging Technologies in Computing Systems 18(2): 1-24,
     doi: 10.1145/3471188
+
+  - `Accelerating ResNet-50 Training on the IPU: Behind our MLPerf Benchmark 
+    <https://towardsdatascience.com/accelerating-resnet-50-training-on-the-ipu-behind-our-mlperf-benchmark-2cefe43ab2b2>`_,
+    *MM Krell*, Zhenying Liu, Emmanuel Menage, Bartosz Bogdanski (2022),
+    Towards Dara Science
 
   - `A Capacity Scaling Law for Artificial Neural Networks
     <https://arxiv.org/abs/1708.06019>`_,
@@ -356,12 +377,38 @@ before   exercise sheets  corrections for mathematics lectures    Various
     MM Krell (2009),
     diploma thesis, Humboldt University of Berlin, Berlin, 1-91
 
+|br|
+
+**PRESENTATIONS AND WORKSHOPS**
+
+  - Graphcore at Fürberg Workshop: 
+    Hybrid AI - combining symbolic, deep learning and neuromorphic (2022)
+
+  - `Software/hardware co-optimization on the IPU: An MLPerf™ case study <https://www.youtube.com/watch?v=iShlp9gDgtM>`_
+    (2021), `Hot Chips 33 Symposium <https://hc33.hotchips.org/>`_
+
+  - pySPACE workshop (2015), DL workshop (2016),
+    ML workshop (2016), DFKI RIC, Bremen, Germany
+  
+  - Representation of the DFKI RIC at the **CeBIT**
+    international computer expo (2015), Hannover, Germany
+
+  - `Introduction to pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
+    PyData Berlin 2014, Berlin, Germany
+
+  - `Our Tools for Large Scale or Embedded Processing of Physiological Data`
+    (2014), Passive BCI Community Meeting, Delmenhorst, Germany
+
+  - `Introduction to pySPACE workflows` (2013),
+    **NIPS** workshop *Machine Learning Open Source Software: 
+    Towards Open Workflows*, Lake Tahoe, Nevada, USA
+
 |np| |br|
 
 **MINOR PUBLICATIONS**
 
   - `Packing: Towards 2x NLP BERT Acceleration
-    <https://arxiv.org/abs/2107.02027>`_,
+    <https://arxiv.org/abs/2107.02027v1>`_,
     M Kosec, Sheng Fu, *MM Krell* (2021), arXiv
 
   - `NanoBatch DPSGD: Exploring Differentially 
@@ -440,26 +487,6 @@ before   exercise sheets  corrections for mathematics lectures    Various
     H Wöhrle, *MM Krell*, M Tabie, M Fahle (2013),
     In PLoS ONE 8(12): e817321-19, doi:10.1371/journal.pone.0081732
 
-|br|
-
-**PRESENTATIONS AND WORKSHOPS**
-
-  - pySPACE workshop (2015), DL workshop (2016),
-    ML workshop (2016), DFKI RIC, Bremen, Germany
-  
-  - Representation of the DFKI RIC at the **CeBIT**
-    international computer expo (2015), Hannover, Germany
-
-  - `Introduction to pySPACE <http://youtu.be/KobSyPceR6I>`_ (2014),
-    PyData Berlin 2014, Berlin, Germany
-
-  - `Our Tools for Large Scale or Embedded Processing of Physiological Data`
-    (2014), Passive BCI Community Meeting, Delmenhorst, Germany
-
-  - `Introduction to pySPACE workflows` (2013),
-    **NIPS** workshop *Machine Learning Open Source Software: 
-    Towards Open Workflows*, Lake Tahoe, Nevada, USA
-    
 |br|
 
 **REVIEWING**
