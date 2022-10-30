@@ -182,14 +182,14 @@ latex_elements = {
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
-'preamble': "\\usepackage{pdfpages}\n\\renewcommand{\chapter}{\section}\n\\renewcommand{\maketitle}{}\n\\renewcommand{\\tableofcontents}{}\n\\renewcommand{\phantomsection}{}\n\\setcounter{secnumdepth}{0}",
+'preamble': "\\usepackage{pdfpages}\n\\renewcommand{\chapter}{\section}\n\\renewcommand{\maketitle}{}\n\\renewcommand{\\tableofcontents}{}\n\\renewcommand{\phantomsection}{}\n\\setcounter{secnumdepth}{0}\n\\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}",
 }
 
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'cv.tex', u'Curriculum Vitae',
+  ('index', 'mario_cv.tex', u'Curriculum Vitae',
    u'Dr. Mario Michael Krell', 'manual'),
 ]
 
